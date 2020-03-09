@@ -8,7 +8,7 @@
    "referenced_type" : "type-1354",
    "self_type" : "type-1353",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -17,7 +17,7 @@
    "referenced_type" : "type-1426",
    "self_type" : "type-1425",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -26,7 +26,7 @@
    "referenced_type" : "type-1498",
    "self_type" : "type-1497",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -35,7 +35,7 @@
    "referenced_type" : "type-1357",
    "self_type" : "type-1356",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -44,7 +44,7 @@
    "referenced_type" : "type-1429",
    "self_type" : "type-1428",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -53,7 +53,7 @@
    "referenced_type" : "type-1501",
    "self_type" : "type-1500",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -62,7 +62,7 @@
    "referenced_type" : "type-1360",
    "self_type" : "type-1359",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -71,7 +71,7 @@
    "referenced_type" : "type-1432",
    "self_type" : "type-1431",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -80,7 +80,7 @@
    "referenced_type" : "type-1504",
    "self_type" : "type-1503",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -89,7 +89,7 @@
    "referenced_type" : "type-1351",
    "self_type" : "type-1350",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -98,7 +98,7 @@
    "referenced_type" : "type-1423",
    "self_type" : "type-1422",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -107,7 +107,7 @@
    "referenced_type" : "type-1495",
    "self_type" : "type-1494",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -116,7 +116,7 @@
    "referenced_type" : "type-1309",
    "self_type" : "type-1308",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -125,7 +125,7 @@
    "referenced_type" : "type-1381",
    "self_type" : "type-1380",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -134,7 +134,7 @@
    "referenced_type" : "type-1453",
    "self_type" : "type-1452",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -143,7 +143,7 @@
    "referenced_type" : "type-1333",
    "self_type" : "type-1332",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -152,7 +152,7 @@
    "referenced_type" : "type-1405",
    "self_type" : "type-1404",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -161,7 +161,7 @@
    "referenced_type" : "type-1477",
    "self_type" : "type-1476",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -170,7 +170,7 @@
    "referenced_type" : "type-1294",
    "self_type" : "type-1293",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -179,7 +179,7 @@
    "referenced_type" : "type-1366",
    "self_type" : "type-1365",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -188,7 +188,7 @@
    "referenced_type" : "type-1438",
    "self_type" : "type-1437",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -197,7 +197,7 @@
    "referenced_type" : "type-1318",
    "self_type" : "type-1317",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -206,7 +206,7 @@
    "referenced_type" : "type-1390",
    "self_type" : "type-1389",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -215,7 +215,7 @@
    "referenced_type" : "type-1462",
    "self_type" : "type-1461",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -224,7 +224,7 @@
    "referenced_type" : "type-1345",
    "self_type" : "type-1344",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -233,7 +233,7 @@
    "referenced_type" : "type-1417",
    "self_type" : "type-1416",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -242,7 +242,7 @@
    "referenced_type" : "type-1489",
    "self_type" : "type-1488",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -251,7 +251,7 @@
    "referenced_type" : "type-1303",
    "self_type" : "type-1302",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -260,7 +260,7 @@
    "referenced_type" : "type-1375",
    "self_type" : "type-1374",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -269,7 +269,7 @@
    "referenced_type" : "type-1447",
    "self_type" : "type-1446",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -278,7 +278,7 @@
    "referenced_type" : "type-1312",
    "self_type" : "type-1311",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -287,7 +287,7 @@
    "referenced_type" : "type-1384",
    "self_type" : "type-1383",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -296,7 +296,7 @@
    "referenced_type" : "type-1456",
    "self_type" : "type-1455",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -305,7 +305,7 @@
    "referenced_type" : "type-1327",
    "self_type" : "type-1326",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -314,7 +314,7 @@
    "referenced_type" : "type-1399",
    "self_type" : "type-1398",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -323,7 +323,7 @@
    "referenced_type" : "type-1471",
    "self_type" : "type-1470",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -332,7 +332,7 @@
    "referenced_type" : "type-1336",
    "self_type" : "type-1335",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -341,7 +341,7 @@
    "referenced_type" : "type-1408",
    "self_type" : "type-1407",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -350,7 +350,7 @@
    "referenced_type" : "type-1480",
    "self_type" : "type-1479",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -359,7 +359,7 @@
    "referenced_type" : "type-1339",
    "self_type" : "type-1338",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -368,7 +368,7 @@
    "referenced_type" : "type-1411",
    "self_type" : "type-1410",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -377,7 +377,7 @@
    "referenced_type" : "type-1483",
    "self_type" : "type-1482",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -386,7 +386,7 @@
    "referenced_type" : "type-1348",
    "self_type" : "type-1347",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -395,7 +395,7 @@
    "referenced_type" : "type-1420",
    "self_type" : "type-1419",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -404,7 +404,7 @@
    "referenced_type" : "type-1492",
    "self_type" : "type-1491",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -413,7 +413,7 @@
    "referenced_type" : "type-1306",
    "self_type" : "type-1305",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -422,7 +422,7 @@
    "referenced_type" : "type-1378",
    "self_type" : "type-1377",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -431,7 +431,7 @@
    "referenced_type" : "type-1450",
    "self_type" : "type-1449",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -440,7 +440,7 @@
    "referenced_type" : "type-1297",
    "self_type" : "type-1296",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -449,7 +449,7 @@
    "referenced_type" : "type-1369",
    "self_type" : "type-1368",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -458,7 +458,7 @@
    "referenced_type" : "type-1441",
    "self_type" : "type-1440",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -467,7 +467,7 @@
    "referenced_type" : "type-1330",
    "self_type" : "type-1329",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -476,7 +476,7 @@
    "referenced_type" : "type-1402",
    "self_type" : "type-1401",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -485,7 +485,7 @@
    "referenced_type" : "type-1474",
    "self_type" : "type-1473",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -494,7 +494,7 @@
    "referenced_type" : "type-1321",
    "self_type" : "type-1320",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -503,7 +503,7 @@
    "referenced_type" : "type-1393",
    "self_type" : "type-1392",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -512,7 +512,7 @@
    "referenced_type" : "type-1465",
    "self_type" : "type-1464",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -521,7 +521,7 @@
    "referenced_type" : "type-1342",
    "self_type" : "type-1341",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -530,7 +530,7 @@
    "referenced_type" : "type-1414",
    "self_type" : "type-1413",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -539,7 +539,7 @@
    "referenced_type" : "type-1486",
    "self_type" : "type-1485",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -548,7 +548,7 @@
    "referenced_type" : "type-1300",
    "self_type" : "type-1299",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -557,7 +557,7 @@
    "referenced_type" : "type-1372",
    "self_type" : "type-1371",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -566,7 +566,7 @@
    "referenced_type" : "type-1444",
    "self_type" : "type-1443",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -575,7 +575,7 @@
    "referenced_type" : "type-1291",
    "self_type" : "type-1290",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -584,7 +584,7 @@
    "referenced_type" : "type-1363",
    "self_type" : "type-1362",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -593,7 +593,7 @@
    "referenced_type" : "type-1435",
    "self_type" : "type-1434",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -602,7 +602,7 @@
    "referenced_type" : "type-1315",
    "self_type" : "type-1314",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -611,7 +611,7 @@
    "referenced_type" : "type-1387",
    "self_type" : "type-1386",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 8,
@@ -620,7 +620,7 @@
    "referenced_type" : "type-1459",
    "self_type" : "type-1458",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -629,7 +629,7 @@
    "referenced_type" : "type-1324",
    "self_type" : "type-1323",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -638,7 +638,7 @@
    "referenced_type" : "type-1396",
    "self_type" : "type-1395",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "alignment" : 16,
@@ -647,7 +647,7 @@
    "referenced_type" : "type-1468",
    "self_type" : "type-1467",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h"
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h"
   },
   {
    "linker_set_key" : "__sFILE []",
@@ -17464,8 +17464,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf32_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:49:3) at out/soong/ndk/sysroot/usr/include/elf.h:49:3",
-   "name" : "Elf32_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:49:3) at out/soong/ndk/sysroot/usr/include/elf.h:49:3",
+   "linker_set_key" : "Elf32_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:49:3) at /out/soong/ndk/sysroot/usr/include/elf.h:49:3",
+   "name" : "Elf32_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:49:3) at /out/soong/ndk/sysroot/usr/include/elf.h:49:3",
    "record_kind" : "union",
    "referenced_type" : "type-3196",
    "self_type" : "type-3196",
@@ -17541,8 +17541,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf64_Dyn::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
-   "name" : "Elf64_Dyn::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
+   "linker_set_key" : "Elf64_Dyn::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
+   "name" : "Elf64_Dyn::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
    "record_kind" : "union",
    "referenced_type" : "type-3180",
    "self_type" : "type-3180",
@@ -17821,8 +17821,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf64_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:56:3) at out/soong/ndk/sysroot/usr/include/elf.h:56:3",
-   "name" : "Elf64_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:56:3) at out/soong/ndk/sysroot/usr/include/elf.h:56:3",
+   "linker_set_key" : "Elf64_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:56:3) at /out/soong/ndk/sysroot/usr/include/elf.h:56:3",
+   "name" : "Elf64_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:56:3) at /out/soong/ndk/sysroot/usr/include/elf.h:56:3",
    "record_kind" : "union",
    "referenced_type" : "type-3198",
    "self_type" : "type-3198",
@@ -20503,13 +20503,13 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__kernel_sigaction::(anonymous union at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3) at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3",
-   "name" : "__kernel_sigaction::(anonymous union at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3) at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3",
+   "linker_set_key" : "__kernel_sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
+   "name" : "__kernel_sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
    "record_kind" : "union",
-   "referenced_type" : "type-1515",
-   "self_type" : "type-1515",
+   "referenced_type" : "type-3251",
+   "self_type" : "type-3251",
    "size" : 4,
-   "source_file" : "/bionic/libc/kernel/uapi/asm-arm/asm/signal.h",
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h",
    "unique_id" : "_ZTSN18__kernel_sigactionUt_E"
   },
   {
@@ -20526,13 +20526,13 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__kernel_sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
-   "name" : "__kernel_sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
+   "linker_set_key" : "__kernel_sigaction::(anonymous union at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3) at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3",
+   "name" : "__kernel_sigaction::(anonymous union at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3) at bionic/libc/kernel/uapi/asm-arm/asm/signal.h:77:3",
    "record_kind" : "union",
-   "referenced_type" : "type-3251",
-   "self_type" : "type-3251",
+   "referenced_type" : "type-1515",
+   "self_type" : "type-1515",
    "size" : 4,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h",
+   "source_file" : "/bionic/libc/kernel/uapi/asm-arm/asm/signal.h",
    "unique_id" : "_ZTSN18__kernel_sigactionUt_E"
   },
   {
@@ -20733,6 +20733,279 @@
    "size" : 20,
    "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
    "unique_id" : "_ZTS10__sifields"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_pid",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_uid",
+     "field_offset" : 32,
+     "referenced_type" : "type-555"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
+   "referenced_type" : "type-3256",
+   "self_type" : "type-3256",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_tid",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_overrun",
+     "field_offset" : 32,
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_sigval",
+     "field_offset" : 64,
+     "referenced_type" : "type-3258"
+    },
+    {
+     "field_name" : "_sys_private",
+     "field_offset" : 96,
+     "referenced_type" : "type-13"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
+   "referenced_type" : "type-3257",
+   "self_type" : "type-3257",
+   "size" : 16,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt0_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_pid",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_uid",
+     "field_offset" : 32,
+     "referenced_type" : "type-555"
+    },
+    {
+     "field_name" : "_sigval",
+     "field_offset" : 64,
+     "referenced_type" : "type-3258"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
+   "referenced_type" : "type-3259",
+   "self_type" : "type-3259",
+   "size" : 12,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt1_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_pid",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_uid",
+     "field_offset" : 32,
+     "referenced_type" : "type-555"
+    },
+    {
+     "field_name" : "_status",
+     "field_offset" : 64,
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_utime",
+     "field_offset" : 96,
+     "referenced_type" : "type-606"
+    },
+    {
+     "field_name" : "_stime",
+     "field_offset" : 128,
+     "referenced_type" : "type-606"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
+   "referenced_type" : "type-3260",
+   "self_type" : "type-3260",
+   "size" : 20,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt2_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_addr",
+     "referenced_type" : "type-9"
+    },
+    {
+     "field_offset" : 32,
+     "referenced_type" : "type-3262"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
+   "referenced_type" : "type-3261",
+   "self_type" : "type-3261",
+   "size" : 16,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt3_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_addr_lsb",
+     "referenced_type" : "type-78"
+    },
+    {
+     "field_name" : "_addr_bnd",
+     "referenced_type" : "type-3263"
+    },
+    {
+     "field_name" : "_addr_pkey",
+     "referenced_type" : "type-3264"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
+   "record_kind" : "union",
+   "referenced_type" : "type-3262",
+   "self_type" : "type-3262",
+   "size" : 12,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_dummy_bnd",
+     "referenced_type" : "type-1533"
+    },
+    {
+     "field_name" : "_lower",
+     "field_offset" : 32,
+     "referenced_type" : "type-9"
+    },
+    {
+     "field_name" : "_upper",
+     "field_offset" : 64,
+     "referenced_type" : "type-9"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
+   "referenced_type" : "type-3263",
+   "self_type" : "type-3263",
+   "size" : 12,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_Ut_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_dummy_pkey",
+     "referenced_type" : "type-1533"
+    },
+    {
+     "field_name" : "_pkey",
+     "field_offset" : 32,
+     "referenced_type" : "type-555"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
+   "referenced_type" : "type-3264",
+   "self_type" : "type-3264",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_Ut0_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_band",
+     "referenced_type" : "type-606"
+    },
+    {
+     "field_name" : "_fd",
+     "field_offset" : 32,
+     "referenced_type" : "type-13"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
+   "referenced_type" : "type-3265",
+   "self_type" : "type-3265",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt4_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_call_addr",
+     "referenced_type" : "type-9"
+    },
+    {
+     "field_name" : "_syscall",
+     "field_offset" : 32,
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_arch",
+     "field_offset" : 64,
+     "referenced_type" : "type-555"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
+   "referenced_type" : "type-3266",
+   "self_type" : "type-3266",
+   "size" : 12,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN10__sifieldsUt5_E"
   },
   {
    "alignment" : 4,
@@ -21005,279 +21278,6 @@
    "self_type" : "type-1536",
    "size" : 12,
    "source_file" : "/bionic/libc/kernel/uapi/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt5_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_pid",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_uid",
-     "field_offset" : 32,
-     "referenced_type" : "type-555"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
-   "referenced_type" : "type-3256",
-   "self_type" : "type-3256",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_tid",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_overrun",
-     "field_offset" : 32,
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_sigval",
-     "field_offset" : 64,
-     "referenced_type" : "type-3258"
-    },
-    {
-     "field_name" : "_sys_private",
-     "field_offset" : 96,
-     "referenced_type" : "type-13"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
-   "referenced_type" : "type-3257",
-   "self_type" : "type-3257",
-   "size" : 16,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt0_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_pid",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_uid",
-     "field_offset" : 32,
-     "referenced_type" : "type-555"
-    },
-    {
-     "field_name" : "_sigval",
-     "field_offset" : 64,
-     "referenced_type" : "type-3258"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
-   "referenced_type" : "type-3259",
-   "self_type" : "type-3259",
-   "size" : 12,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt1_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_pid",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_uid",
-     "field_offset" : 32,
-     "referenced_type" : "type-555"
-    },
-    {
-     "field_name" : "_status",
-     "field_offset" : 64,
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_utime",
-     "field_offset" : 96,
-     "referenced_type" : "type-606"
-    },
-    {
-     "field_name" : "_stime",
-     "field_offset" : 128,
-     "referenced_type" : "type-606"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
-   "referenced_type" : "type-3260",
-   "self_type" : "type-3260",
-   "size" : 20,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt2_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_addr",
-     "referenced_type" : "type-9"
-    },
-    {
-     "field_offset" : 32,
-     "referenced_type" : "type-3262"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
-   "referenced_type" : "type-3261",
-   "self_type" : "type-3261",
-   "size" : 16,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt3_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_addr_lsb",
-     "referenced_type" : "type-78"
-    },
-    {
-     "field_name" : "_addr_bnd",
-     "referenced_type" : "type-3263"
-    },
-    {
-     "field_name" : "_addr_pkey",
-     "referenced_type" : "type-3264"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
-   "record_kind" : "union",
-   "referenced_type" : "type-3262",
-   "self_type" : "type-3262",
-   "size" : 12,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_dummy_bnd",
-     "referenced_type" : "type-1533"
-    },
-    {
-     "field_name" : "_lower",
-     "field_offset" : 32,
-     "referenced_type" : "type-9"
-    },
-    {
-     "field_name" : "_upper",
-     "field_offset" : 64,
-     "referenced_type" : "type-9"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
-   "referenced_type" : "type-3263",
-   "self_type" : "type-3263",
-   "size" : 12,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_Ut_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_dummy_pkey",
-     "referenced_type" : "type-1533"
-    },
-    {
-     "field_name" : "_pkey",
-     "field_offset" : 32,
-     "referenced_type" : "type-555"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
-   "referenced_type" : "type-3264",
-   "self_type" : "type-3264",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt3_Ut_Ut0_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_band",
-     "referenced_type" : "type-606"
-    },
-    {
-     "field_name" : "_fd",
-     "field_offset" : 32,
-     "referenced_type" : "type-13"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
-   "referenced_type" : "type-3265",
-   "self_type" : "type-3265",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN10__sifieldsUt4_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_call_addr",
-     "referenced_type" : "type-9"
-    },
-    {
-     "field_name" : "_syscall",
-     "field_offset" : 32,
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_arch",
-     "field_offset" : 64,
-     "referenced_type" : "type-555"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
-   "referenced_type" : "type-3266",
-   "self_type" : "type-3266",
-   "size" : 12,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
    "unique_id" : "_ZTSN10__sifieldsUt5_E"
   },
   {
@@ -22075,8 +22075,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "dynamic::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
-   "name" : "dynamic::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
+   "linker_set_key" : "dynamic::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
+   "name" : "dynamic::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
    "record_kind" : "union",
    "referenced_type" : "type-3178",
    "self_type" : "type-3178",
@@ -22760,7 +22760,7 @@
    "referenced_type" : "type-1337",
    "self_type" : "type-1337",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x4x2_t"
   },
   {
@@ -22777,7 +22777,7 @@
    "referenced_type" : "type-1409",
    "self_type" : "type-1409",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x4x3_t"
   },
   {
@@ -22794,7 +22794,7 @@
    "referenced_type" : "type-1481",
    "self_type" : "type-1481",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x4x4_t"
   },
   {
@@ -22811,7 +22811,7 @@
    "referenced_type" : "type-1340",
    "self_type" : "type-1340",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x8x2_t"
   },
   {
@@ -22828,7 +22828,7 @@
    "referenced_type" : "type-1412",
    "self_type" : "type-1412",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x8x3_t"
   },
   {
@@ -22845,7 +22845,7 @@
    "referenced_type" : "type-1484",
    "self_type" : "type-1484",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float16x8x4_t"
   },
   {
@@ -22862,7 +22862,7 @@
    "referenced_type" : "type-1343",
    "self_type" : "type-1343",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x2x2_t"
   },
   {
@@ -22879,7 +22879,7 @@
    "referenced_type" : "type-1415",
    "self_type" : "type-1415",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x2x3_t"
   },
   {
@@ -22896,7 +22896,7 @@
    "referenced_type" : "type-1487",
    "self_type" : "type-1487",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x2x4_t"
   },
   {
@@ -22913,7 +22913,7 @@
    "referenced_type" : "type-1346",
    "self_type" : "type-1346",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x4x2_t"
   },
   {
@@ -22930,7 +22930,7 @@
    "referenced_type" : "type-1418",
    "self_type" : "type-1418",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x4x3_t"
   },
   {
@@ -22947,7 +22947,7 @@
    "referenced_type" : "type-1490",
    "self_type" : "type-1490",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS13float32x4x4_t"
   },
   {
@@ -23008,7 +23008,7 @@
    "referenced_type" : "type-1295",
    "self_type" : "type-1295",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x4x2_t"
   },
   {
@@ -23025,7 +23025,7 @@
    "referenced_type" : "type-1367",
    "self_type" : "type-1367",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x4x3_t"
   },
   {
@@ -23042,7 +23042,7 @@
    "referenced_type" : "type-1439",
    "self_type" : "type-1439",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x4x4_t"
   },
   {
@@ -23059,7 +23059,7 @@
    "referenced_type" : "type-1298",
    "self_type" : "type-1298",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x8x2_t"
   },
   {
@@ -23076,7 +23076,7 @@
    "referenced_type" : "type-1370",
    "self_type" : "type-1370",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x8x3_t"
   },
   {
@@ -23093,7 +23093,7 @@
    "referenced_type" : "type-1442",
    "self_type" : "type-1442",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int16x8x4_t"
   },
   {
@@ -23110,7 +23110,7 @@
    "referenced_type" : "type-1301",
    "self_type" : "type-1301",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x2x2_t"
   },
   {
@@ -23127,7 +23127,7 @@
    "referenced_type" : "type-1373",
    "self_type" : "type-1373",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x2x3_t"
   },
   {
@@ -23144,7 +23144,7 @@
    "referenced_type" : "type-1445",
    "self_type" : "type-1445",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x2x4_t"
   },
   {
@@ -23161,7 +23161,7 @@
    "referenced_type" : "type-1304",
    "self_type" : "type-1304",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x4x2_t"
   },
   {
@@ -23178,7 +23178,7 @@
    "referenced_type" : "type-1376",
    "self_type" : "type-1376",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x4x3_t"
   },
   {
@@ -23195,7 +23195,7 @@
    "referenced_type" : "type-1448",
    "self_type" : "type-1448",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int32x4x4_t"
   },
   {
@@ -23212,7 +23212,7 @@
    "referenced_type" : "type-1307",
    "self_type" : "type-1307",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x1x2_t"
   },
   {
@@ -23229,7 +23229,7 @@
    "referenced_type" : "type-1379",
    "self_type" : "type-1379",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x1x3_t"
   },
   {
@@ -23246,7 +23246,7 @@
    "referenced_type" : "type-1451",
    "self_type" : "type-1451",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x1x4_t"
   },
   {
@@ -23263,7 +23263,7 @@
    "referenced_type" : "type-1310",
    "self_type" : "type-1310",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x2x2_t"
   },
   {
@@ -23280,7 +23280,7 @@
    "referenced_type" : "type-1382",
    "self_type" : "type-1382",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x2x3_t"
   },
   {
@@ -23297,7 +23297,7 @@
    "referenced_type" : "type-1454",
    "self_type" : "type-1454",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int64x2x4_t"
   },
   {
@@ -23314,7 +23314,7 @@
    "referenced_type" : "type-1292",
    "self_type" : "type-1292",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int8x16x2_t"
   },
   {
@@ -23331,7 +23331,7 @@
    "referenced_type" : "type-1364",
    "self_type" : "type-1364",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int8x16x3_t"
   },
   {
@@ -23348,7 +23348,7 @@
    "referenced_type" : "type-1436",
    "self_type" : "type-1436",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11int8x16x4_t"
   },
   {
@@ -23365,7 +23365,7 @@
    "referenced_type" : "type-1289",
    "self_type" : "type-1289",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS10int8x8x2_t"
   },
   {
@@ -23382,7 +23382,7 @@
    "referenced_type" : "type-1361",
    "self_type" : "type-1361",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS10int8x8x3_t"
   },
   {
@@ -23399,7 +23399,7 @@
    "referenced_type" : "type-1433",
    "self_type" : "type-1433",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS10int8x8x4_t"
   },
   {
@@ -25381,7 +25381,7 @@
    "referenced_type" : "type-1",
    "self_type" : "type-1",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/__stddef_max_align_t.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/__stddef_max_align_t.h",
    "unique_id" : "_ZTS11max_align_t"
   },
   {
@@ -25415,7 +25415,7 @@
    "referenced_type" : "type-1355",
    "self_type" : "type-1355",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x4x2_t"
   },
   {
@@ -25432,7 +25432,7 @@
    "referenced_type" : "type-1427",
    "self_type" : "type-1427",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x4x3_t"
   },
   {
@@ -25449,7 +25449,7 @@
    "referenced_type" : "type-1499",
    "self_type" : "type-1499",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x4x4_t"
   },
   {
@@ -25466,7 +25466,7 @@
    "referenced_type" : "type-1358",
    "self_type" : "type-1358",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x8x2_t"
   },
   {
@@ -25483,7 +25483,7 @@
    "referenced_type" : "type-1430",
    "self_type" : "type-1430",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x8x3_t"
   },
   {
@@ -25500,7 +25500,7 @@
    "referenced_type" : "type-1502",
    "self_type" : "type-1502",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly16x8x4_t"
   },
   {
@@ -25517,7 +25517,7 @@
    "referenced_type" : "type-1352",
    "self_type" : "type-1352",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly8x16x2_t"
   },
   {
@@ -25534,7 +25534,7 @@
    "referenced_type" : "type-1424",
    "self_type" : "type-1424",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly8x16x3_t"
   },
   {
@@ -25551,7 +25551,7 @@
    "referenced_type" : "type-1496",
    "self_type" : "type-1496",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12poly8x16x4_t"
   },
   {
@@ -25568,7 +25568,7 @@
    "referenced_type" : "type-1349",
    "self_type" : "type-1349",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11poly8x8x2_t"
   },
   {
@@ -25585,7 +25585,7 @@
    "referenced_type" : "type-1421",
    "self_type" : "type-1421",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11poly8x8x3_t"
   },
   {
@@ -25602,7 +25602,7 @@
    "referenced_type" : "type-1493",
    "self_type" : "type-1493",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11poly8x8x4_t"
   },
   {
@@ -26127,6 +26127,29 @@
     }
    ],
    "is_anonymous" : true,
+   "linker_set_key" : "sigaction64::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
+   "name" : "sigaction64::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
+   "record_kind" : "union",
+   "referenced_type" : "type-3277",
+   "self_type" : "type-3277",
+   "size" : 4,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/bits/signal_types.h",
+   "unique_id" : "_ZTSN11sigaction64Ut_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "sa_handler",
+     "referenced_type" : "type-1516"
+    },
+    {
+     "field_name" : "sa_sigaction",
+     "referenced_type" : "type-1518"
+    }
+   ],
+   "is_anonymous" : true,
    "linker_set_key" : "sigaction64::(anonymous union at bionic/libc/include/bits/signal_types.h:116:3) at bionic/libc/include/bits/signal_types.h:116:3",
    "name" : "sigaction64::(anonymous union at bionic/libc/include/bits/signal_types.h:116:3) at bionic/libc/include/bits/signal_types.h:116:3",
    "record_kind" : "union",
@@ -26150,14 +26173,14 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "sigaction64::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
-   "name" : "sigaction64::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
+   "linker_set_key" : "sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
+   "name" : "sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
    "record_kind" : "union",
-   "referenced_type" : "type-3277",
-   "self_type" : "type-3277",
+   "referenced_type" : "type-3275",
+   "self_type" : "type-3275",
    "size" : 4,
    "source_file" : "/out/soong/ndk/sysroot/usr/include/bits/signal_types.h",
-   "unique_id" : "_ZTSN11sigaction64Ut_E"
+   "unique_id" : "_ZTSN9sigactionUt_E"
   },
   {
    "alignment" : 4,
@@ -26180,29 +26203,6 @@
    "self_type" : "type-1550",
    "size" : 4,
    "source_file" : "/bionic/libc/include/bits/signal_types.h",
-   "unique_id" : "_ZTSN9sigactionUt_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "sa_handler",
-     "referenced_type" : "type-1516"
-    },
-    {
-     "field_name" : "sa_sigaction",
-     "referenced_type" : "type-1518"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
-   "name" : "sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
-   "record_kind" : "union",
-   "referenced_type" : "type-3275",
-   "self_type" : "type-3275",
-   "size" : 4,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/bits/signal_types.h",
    "unique_id" : "_ZTSN9sigactionUt_E"
   },
   {
@@ -26571,6 +26571,56 @@
     },
     {
      "field_name" : "_sigev_thread",
+     "referenced_type" : "type-3272"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
+   "name" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
+   "record_kind" : "union",
+   "referenced_type" : "type-3271",
+   "self_type" : "type-3271",
+   "size" : 52,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN8sigeventUt_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_function",
+     "referenced_type" : "type-1545"
+    },
+    {
+     "field_name" : "_attribute",
+     "field_offset" : 32,
+     "referenced_type" : "type-9"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
+   "name" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
+   "referenced_type" : "type-3272",
+   "self_type" : "type-3272",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN8sigeventUt_Ut_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "_pad",
+     "referenced_type" : "type-1543"
+    },
+    {
+     "field_name" : "_tid",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_sigev_thread",
      "referenced_type" : "type-1544"
     }
    ],
@@ -26612,56 +26662,6 @@
    "fields" :
    [
     {
-     "field_name" : "_pad",
-     "referenced_type" : "type-1543"
-    },
-    {
-     "field_name" : "_tid",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_sigev_thread",
-     "referenced_type" : "type-3272"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
-   "name" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
-   "record_kind" : "union",
-   "referenced_type" : "type-3271",
-   "self_type" : "type-3271",
-   "size" : 52,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN8sigeventUt_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "_function",
-     "referenced_type" : "type-1545"
-    },
-    {
-     "field_name" : "_attribute",
-     "field_offset" : 32,
-     "referenced_type" : "type-9"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
-   "name" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
-   "referenced_type" : "type-3272",
-   "self_type" : "type-3272",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN8sigeventUt_Ut_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
      "referenced_type" : "type-1522"
     }
    ],
@@ -26688,6 +26688,61 @@
    "size" : 128,
    "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
    "unique_id" : "_ZTS7siginfo"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "referenced_type" : "type-3254"
+    },
+    {
+     "field_name" : "_si_pad",
+     "referenced_type" : "type-1537"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
+   "name" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
+   "record_kind" : "union",
+   "referenced_type" : "type-3253",
+   "self_type" : "type-3253",
+   "size" : 128,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN7siginfoUt_E"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "si_signo",
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "si_errno",
+     "field_offset" : 32,
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "si_code",
+     "field_offset" : 64,
+     "referenced_type" : "type-13"
+    },
+    {
+     "field_name" : "_sifields",
+     "field_offset" : 96,
+     "referenced_type" : "type-3255"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
+   "name" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
+   "referenced_type" : "type-3254",
+   "self_type" : "type-3254",
+   "size" : 32,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
+   "unique_id" : "_ZTSN7siginfoUt_Ut_E"
   },
   {
    "alignment" : 4,
@@ -26742,61 +26797,6 @@
    "self_type" : "type-1523",
    "size" : 32,
    "source_file" : "/bionic/libc/kernel/uapi/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN7siginfoUt_Ut_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "referenced_type" : "type-3254"
-    },
-    {
-     "field_name" : "_si_pad",
-     "referenced_type" : "type-1537"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
-   "name" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
-   "record_kind" : "union",
-   "referenced_type" : "type-3253",
-   "self_type" : "type-3253",
-   "size" : 128,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
-   "unique_id" : "_ZTSN7siginfoUt_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "si_signo",
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "si_errno",
-     "field_offset" : 32,
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "si_code",
-     "field_offset" : 64,
-     "referenced_type" : "type-13"
-    },
-    {
-     "field_name" : "_sifields",
-     "field_offset" : 96,
-     "referenced_type" : "type-3255"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
-   "name" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
-   "referenced_type" : "type-3254",
-   "self_type" : "type-3254",
-   "size" : 32,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h",
    "unique_id" : "_ZTSN7siginfoUt_Ut_E"
   },
   {
@@ -57753,6 +57753,51 @@
    "fields" :
    [
     {
+     "referenced_type" : "type-3291"
+    },
+    {
+     "field_name" : "uc_sigmask64",
+     "referenced_type" : "type-3273"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
+   "name" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
+   "record_kind" : "union",
+   "referenced_type" : "type-3290",
+   "self_type" : "type-3290",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
+   "unique_id" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "uc_sigmask",
+     "referenced_type" : "type-608"
+    },
+    {
+     "field_name" : "__padding_rt_sigset",
+     "field_offset" : 32,
+     "referenced_type" : "type-555"
+    }
+   ],
+   "is_anonymous" : true,
+   "linker_set_key" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
+   "name" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
+   "referenced_type" : "type-3291",
+   "self_type" : "type-3291",
+   "size" : 8,
+   "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
+   "unique_id" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5)"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
      "referenced_type" : "type-1569"
     },
     {
@@ -57794,51 +57839,6 @@
    "unique_id" : "ucontext::(anonymous union at bionic/libc/include/sys/ucontext.h:90:3)::(anonymous struct at bionic/libc/include/sys/ucontext.h:91:5)"
   },
   {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "referenced_type" : "type-3291"
-    },
-    {
-     "field_name" : "uc_sigmask64",
-     "referenced_type" : "type-3273"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
-   "name" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
-   "record_kind" : "union",
-   "referenced_type" : "type-3290",
-   "self_type" : "type-3290",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
-   "unique_id" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "uc_sigmask",
-     "referenced_type" : "type-608"
-    },
-    {
-     "field_name" : "__padding_rt_sigset",
-     "field_offset" : 32,
-     "referenced_type" : "type-555"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
-   "name" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
-   "referenced_type" : "type-3291",
-   "self_type" : "type-3291",
-   "size" : 8,
-   "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
-   "unique_id" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5)"
-  },
-  {
    "alignment" : 8,
    "fields" :
    [
@@ -57852,7 +57852,7 @@
    "referenced_type" : "type-1319",
    "self_type" : "type-1319",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x4x2_t"
   },
   {
@@ -57869,7 +57869,7 @@
    "referenced_type" : "type-1391",
    "self_type" : "type-1391",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x4x3_t"
   },
   {
@@ -57886,7 +57886,7 @@
    "referenced_type" : "type-1463",
    "self_type" : "type-1463",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x4x4_t"
   },
   {
@@ -57903,7 +57903,7 @@
    "referenced_type" : "type-1322",
    "self_type" : "type-1322",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x8x2_t"
   },
   {
@@ -57920,7 +57920,7 @@
    "referenced_type" : "type-1394",
    "self_type" : "type-1394",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x8x3_t"
   },
   {
@@ -57937,7 +57937,7 @@
    "referenced_type" : "type-1466",
    "self_type" : "type-1466",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint16x8x4_t"
   },
   {
@@ -57954,7 +57954,7 @@
    "referenced_type" : "type-1325",
    "self_type" : "type-1325",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x2x2_t"
   },
   {
@@ -57971,7 +57971,7 @@
    "referenced_type" : "type-1397",
    "self_type" : "type-1397",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x2x3_t"
   },
   {
@@ -57988,7 +57988,7 @@
    "referenced_type" : "type-1469",
    "self_type" : "type-1469",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x2x4_t"
   },
   {
@@ -58005,7 +58005,7 @@
    "referenced_type" : "type-1328",
    "self_type" : "type-1328",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x4x2_t"
   },
   {
@@ -58022,7 +58022,7 @@
    "referenced_type" : "type-1400",
    "self_type" : "type-1400",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x4x3_t"
   },
   {
@@ -58039,7 +58039,7 @@
    "referenced_type" : "type-1472",
    "self_type" : "type-1472",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint32x4x4_t"
   },
   {
@@ -58056,7 +58056,7 @@
    "referenced_type" : "type-1331",
    "self_type" : "type-1331",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x1x2_t"
   },
   {
@@ -58073,7 +58073,7 @@
    "referenced_type" : "type-1403",
    "self_type" : "type-1403",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x1x3_t"
   },
   {
@@ -58090,7 +58090,7 @@
    "referenced_type" : "type-1475",
    "self_type" : "type-1475",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x1x4_t"
   },
   {
@@ -58107,7 +58107,7 @@
    "referenced_type" : "type-1334",
    "self_type" : "type-1334",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x2x2_t"
   },
   {
@@ -58124,7 +58124,7 @@
    "referenced_type" : "type-1406",
    "self_type" : "type-1406",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x2x3_t"
   },
   {
@@ -58141,7 +58141,7 @@
    "referenced_type" : "type-1478",
    "self_type" : "type-1478",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint64x2x4_t"
   },
   {
@@ -58158,7 +58158,7 @@
    "referenced_type" : "type-1316",
    "self_type" : "type-1316",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint8x16x2_t"
   },
   {
@@ -58175,7 +58175,7 @@
    "referenced_type" : "type-1388",
    "self_type" : "type-1388",
    "size" : 48,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint8x16x3_t"
   },
   {
@@ -58192,7 +58192,7 @@
    "referenced_type" : "type-1460",
    "self_type" : "type-1460",
    "size" : 64,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS12uint8x16x4_t"
   },
   {
@@ -58209,7 +58209,7 @@
    "referenced_type" : "type-1313",
    "self_type" : "type-1313",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11uint8x8x2_t"
   },
   {
@@ -58226,7 +58226,7 @@
    "referenced_type" : "type-1385",
    "self_type" : "type-1385",
    "size" : 24,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11uint8x8x3_t"
   },
   {
@@ -58243,7 +58243,7 @@
    "referenced_type" : "type-1457",
    "self_type" : "type-1457",
    "size" : 32,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/arm_neon.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/arm_neon.h",
    "unique_id" : "_ZTS11uint8x8x4_t"
   },
   {

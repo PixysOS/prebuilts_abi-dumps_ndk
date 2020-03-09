@@ -5,8 +5,8 @@
    "alignment" : 1,
    "linker_set_key" : "char [10]",
    "name" : "char [10]",
-   "referenced_type" : "type-220",
-   "self_type" : "type-221",
+   "referenced_type" : "type-287",
+   "self_type" : "type-288",
    "size" : 10,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_modf.c"
   },
@@ -24,7 +24,7 @@
    "linker_set_key" : "double [11]",
    "name" : "double [11]",
    "referenced_type" : "type-4",
-   "self_type" : "type-71",
+   "self_type" : "type-109",
    "size" : 88,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -42,7 +42,7 @@
    "linker_set_key" : "double [16]",
    "name" : "double [16]",
    "referenced_type" : "type-4",
-   "self_type" : "type-66",
+   "self_type" : "type-104",
    "size" : 128,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_tan.c"
   },
@@ -69,7 +69,7 @@
    "linker_set_key" : "double [4]",
    "name" : "double [4]",
    "referenced_type" : "type-4",
-   "self_type" : "type-69",
+   "self_type" : "type-107",
    "size" : 32,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -78,7 +78,7 @@
    "linker_set_key" : "double [5]",
    "name" : "double [5]",
    "referenced_type" : "type-4",
-   "self_type" : "type-38",
+   "self_type" : "type-88",
    "size" : 40,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -87,7 +87,7 @@
    "linker_set_key" : "double [6]",
    "name" : "double [6]",
    "referenced_type" : "type-4",
-   "self_type" : "type-36",
+   "self_type" : "type-86",
    "size" : 48,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -105,7 +105,7 @@
    "linker_set_key" : "double [8]",
    "name" : "double [8]",
    "referenced_type" : "type-4",
-   "self_type" : "type-63",
+   "self_type" : "type-102",
    "size" : 64,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -123,7 +123,7 @@
    "linker_set_key" : "float [4]",
    "name" : "float [4]",
    "referenced_type" : "type-8",
-   "self_type" : "type-73",
+   "self_type" : "type-111",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atanf.c"
   },
@@ -132,7 +132,7 @@
    "linker_set_key" : "float [5]",
    "name" : "float [5]",
    "referenced_type" : "type-8",
-   "self_type" : "type-42",
+   "self_type" : "type-92",
    "size" : 20,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -141,7 +141,7 @@
    "linker_set_key" : "float [6]",
    "name" : "float [6]",
    "referenced_type" : "type-8",
-   "self_type" : "type-40",
+   "self_type" : "type-90",
    "size" : 24,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -159,7 +159,7 @@
    "linker_set_key" : "int [1]",
    "name" : "int [1]",
    "referenced_type" : "type-1",
-   "self_type" : "type-55",
+   "self_type" : "type-44",
    "size" : 4,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h"
   },
@@ -177,7 +177,7 @@
    "linker_set_key" : "int [4]",
    "name" : "int [4]",
    "referenced_type" : "type-1",
-   "self_type" : "type-59",
+   "self_type" : "type-98",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -186,7 +186,7 @@
    "linker_set_key" : "int [66]",
    "name" : "int [66]",
    "referenced_type" : "type-1",
-   "self_type" : "type-61",
+   "self_type" : "type-100",
    "size" : 264,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -195,7 +195,7 @@
    "linker_set_key" : "int [8]",
    "name" : "int [8]",
    "referenced_type" : "type-1",
-   "self_type" : "type-35",
+   "self_type" : "type-34",
    "size" : 32,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h"
   },
@@ -258,7 +258,7 @@
    "linker_set_key" : "long double [2]",
    "name" : "long double [2]",
    "referenced_type" : "type-10",
-   "self_type" : "type-58",
+   "self_type" : "type-47",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -294,7 +294,7 @@
    "linker_set_key" : "unsigned int [24]",
    "name" : "unsigned int [24]",
    "referenced_type" : "type-12",
-   "self_type" : "type-1248",
+   "self_type" : "type-1162",
    "size" : 96,
    "source_file" : "/external/arm-optimized-routines/math/sincosf_data.c"
   },
@@ -341,8 +341,8 @@
    "is_unsigned" : true,
    "linker_set_key" : "char",
    "name" : "char",
-   "referenced_type" : "type-220",
-   "self_type" : "type-220",
+   "referenced_type" : "type-287",
+   "self_type" : "type-287",
    "size" : 1
   },
   {
@@ -375,8 +375,8 @@
    "is_integral" : true,
    "linker_set_key" : "long",
    "name" : "long",
-   "referenced_type" : "type-219",
-   "self_type" : "type-219",
+   "referenced_type" : "type-286",
+   "self_type" : "type-286",
    "size" : 4
   },
   {
@@ -392,8 +392,8 @@
    "is_integral" : true,
    "linker_set_key" : "long long",
    "name" : "long long",
-   "referenced_type" : "type-262",
-   "self_type" : "type-262",
+   "referenced_type" : "type-284",
+   "self_type" : "type-284",
    "size" : 8
   },
   {
@@ -1719,7 +1719,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-765"
+     "referenced_type" : "type-334"
     }
    ],
    "return_type" : "type-4",
@@ -1731,7 +1731,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-766"
+     "referenced_type" : "type-335"
     }
    ],
    "return_type" : "type-8",
@@ -1743,7 +1743,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-767"
+     "referenced_type" : "type-765"
     }
    ],
    "return_type" : "type-10",
@@ -1755,10 +1755,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-87"
+     "referenced_type" : "type-54"
     }
    ],
-   "return_type" : "type-86",
+   "return_type" : "type-53",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1767,10 +1767,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-89"
+     "referenced_type" : "type-56"
     }
    ],
-   "return_type" : "type-88",
+   "return_type" : "type-55",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1779,10 +1779,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-91"
+     "referenced_type" : "type-58"
     }
    ],
-   "return_type" : "type-90",
+   "return_type" : "type-57",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1791,10 +1791,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-93"
+     "referenced_type" : "type-60"
     }
    ],
-   "return_type" : "type-92",
+   "return_type" : "type-59",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1803,7 +1803,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-94"
+     "referenced_type" : "type-126"
     }
    ],
    "return_type" : "type-4",
@@ -1815,7 +1815,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-95"
+     "referenced_type" : "type-127"
     }
    ],
    "return_type" : "type-8",
@@ -1827,7 +1827,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-96"
+     "referenced_type" : "type-128"
     }
    ],
    "return_type" : "type-10",
@@ -1839,10 +1839,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-98"
+     "referenced_type" : "type-62"
     }
    ],
-   "return_type" : "type-97",
+   "return_type" : "type-61",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1851,10 +1851,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-100"
+     "referenced_type" : "type-64"
     }
    ],
-   "return_type" : "type-99",
+   "return_type" : "type-63",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1863,10 +1863,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-102"
+     "referenced_type" : "type-66"
     }
    ],
-   "return_type" : "type-101",
+   "return_type" : "type-65",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1875,10 +1875,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-104"
+     "referenced_type" : "type-68"
     }
    ],
-   "return_type" : "type-103",
+   "return_type" : "type-67",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1887,10 +1887,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-106"
+     "referenced_type" : "type-70"
     }
    ],
-   "return_type" : "type-105",
+   "return_type" : "type-69",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1899,10 +1899,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-108"
+     "referenced_type" : "type-72"
     }
    ],
-   "return_type" : "type-107",
+   "return_type" : "type-71",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1911,10 +1911,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-110"
+     "referenced_type" : "type-74"
     }
    ],
-   "return_type" : "type-109",
+   "return_type" : "type-73",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1923,10 +1923,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-112"
+     "referenced_type" : "type-76"
     }
    ],
-   "return_type" : "type-111",
+   "return_type" : "type-75",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1959,10 +1959,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-114"
+     "referenced_type" : "type-130"
     }
    ],
-   "return_type" : "type-113",
+   "return_type" : "type-129",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1971,10 +1971,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-116"
+     "referenced_type" : "type-132"
     }
    ],
-   "return_type" : "type-115",
+   "return_type" : "type-131",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1983,10 +1983,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-118"
+     "referenced_type" : "type-134"
     }
    ],
-   "return_type" : "type-117",
+   "return_type" : "type-133",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -1995,10 +1995,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-120"
+     "referenced_type" : "type-136"
     }
    ],
-   "return_type" : "type-119",
+   "return_type" : "type-135",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2007,10 +2007,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-769"
+     "referenced_type" : "type-767"
     }
    ],
-   "return_type" : "type-768",
+   "return_type" : "type-766",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2019,10 +2019,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-771"
+     "referenced_type" : "type-769"
     }
    ],
-   "return_type" : "type-770",
+   "return_type" : "type-768",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2055,10 +2055,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-122"
+     "referenced_type" : "type-138"
     }
    ],
-   "return_type" : "type-121",
+   "return_type" : "type-137",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2067,10 +2067,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-124"
+     "referenced_type" : "type-140"
     }
    ],
-   "return_type" : "type-123",
+   "return_type" : "type-139",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2079,10 +2079,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-773"
+     "referenced_type" : "type-771"
     }
    ],
-   "return_type" : "type-772",
+   "return_type" : "type-770",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2091,7 +2091,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-125"
+     "referenced_type" : "type-141"
     }
    ],
    "return_type" : "type-4",
@@ -2103,7 +2103,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-126"
+     "referenced_type" : "type-142"
     }
    ],
    "return_type" : "type-8",
@@ -2115,7 +2115,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-127"
+     "referenced_type" : "type-143"
     }
    ],
    "return_type" : "type-10",
@@ -2127,10 +2127,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-129"
+     "referenced_type" : "type-145"
     }
    ],
-   "return_type" : "type-128",
+   "return_type" : "type-144",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2139,10 +2139,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-131"
+     "referenced_type" : "type-147"
     }
    ],
-   "return_type" : "type-130",
+   "return_type" : "type-146",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2151,10 +2151,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-133"
+     "referenced_type" : "type-149"
     }
    ],
-   "return_type" : "type-132",
+   "return_type" : "type-148",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2163,10 +2163,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-135"
+     "referenced_type" : "type-151"
     }
    ],
-   "return_type" : "type-134",
+   "return_type" : "type-150",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2175,10 +2175,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-137"
+     "referenced_type" : "type-153"
     }
    ],
-   "return_type" : "type-136",
+   "return_type" : "type-152",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2280,13 +2280,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-181"
+     "referenced_type" : "type-196"
     },
     {
-     "referenced_type" : "type-182"
+     "referenced_type" : "type-197"
     }
    ],
-   "return_type" : "type-180",
+   "return_type" : "type-195",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2295,13 +2295,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-184"
+     "referenced_type" : "type-199"
     },
     {
-     "referenced_type" : "type-185"
+     "referenced_type" : "type-200"
     }
    ],
-   "return_type" : "type-183",
+   "return_type" : "type-198",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2310,13 +2310,13 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-187"
+     "referenced_type" : "type-202"
     },
     {
-     "referenced_type" : "type-188"
+     "referenced_type" : "type-203"
     }
    ],
-   "return_type" : "type-186",
+   "return_type" : "type-201",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2325,10 +2325,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-190"
+     "referenced_type" : "type-205"
     }
    ],
-   "return_type" : "type-189",
+   "return_type" : "type-204",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2337,10 +2337,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-192"
+     "referenced_type" : "type-207"
     }
    ],
-   "return_type" : "type-191",
+   "return_type" : "type-206",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2349,10 +2349,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-194"
+     "referenced_type" : "type-209"
     }
    ],
-   "return_type" : "type-193",
+   "return_type" : "type-208",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2361,7 +2361,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-195"
+     "referenced_type" : "type-210"
     }
    ],
    "return_type" : "type-4",
@@ -2373,7 +2373,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-196"
+     "referenced_type" : "type-211"
     }
    ],
    "return_type" : "type-8",
@@ -2385,7 +2385,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-197"
+     "referenced_type" : "type-212"
     }
    ],
    "return_type" : "type-10",
@@ -2397,10 +2397,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-199"
+     "referenced_type" : "type-214"
     }
    ],
-   "return_type" : "type-198",
+   "return_type" : "type-213",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2409,10 +2409,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-201"
+     "referenced_type" : "type-216"
     }
    ],
-   "return_type" : "type-200",
+   "return_type" : "type-215",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2421,10 +2421,10 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-203"
+     "referenced_type" : "type-218"
     }
    ],
-   "return_type" : "type-202",
+   "return_type" : "type-217",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2433,15 +2433,27 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-205"
+     "referenced_type" : "type-220"
     }
    ],
-   "return_type" : "type-204",
+   "return_type" : "type-219",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
    "function_name" : "csinhl",
    "linker_set_key" : "csinhl",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-773"
+    }
+   ],
+   "return_type" : "type-772",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "csinl",
+   "linker_set_key" : "csinl",
    "parameters" :
    [
     {
@@ -2452,8 +2464,80 @@
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
-   "function_name" : "csinl",
-   "linker_set_key" : "csinl",
+   "function_name" : "csqrt",
+   "linker_set_key" : "csqrt",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-222"
+    }
+   ],
+   "return_type" : "type-221",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "csqrtf",
+   "linker_set_key" : "csqrtf",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-224"
+    }
+   ],
+   "return_type" : "type-223",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "ctan",
+   "linker_set_key" : "ctan",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-226"
+    }
+   ],
+   "return_type" : "type-225",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "ctanf",
+   "linker_set_key" : "ctanf",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-228"
+    }
+   ],
+   "return_type" : "type-227",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "ctanh",
+   "linker_set_key" : "ctanh",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-230"
+    }
+   ],
+   "return_type" : "type-229",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "ctanhf",
+   "linker_set_key" : "ctanhf",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "type-232"
+    }
+   ],
+   "return_type" : "type-231",
+   "source_file" : "/bionic/libc/include/complex.h"
+  },
+  {
+   "function_name" : "ctanhl",
+   "linker_set_key" : "ctanhl",
    "parameters" :
    [
     {
@@ -2464,80 +2548,8 @@
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
-   "function_name" : "csqrt",
-   "linker_set_key" : "csqrt",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-207"
-    }
-   ],
-   "return_type" : "type-206",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "csqrtf",
-   "linker_set_key" : "csqrtf",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-209"
-    }
-   ],
-   "return_type" : "type-208",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctan",
-   "linker_set_key" : "ctan",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-211"
-    }
-   ],
-   "return_type" : "type-210",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctanf",
-   "linker_set_key" : "ctanf",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-213"
-    }
-   ],
-   "return_type" : "type-212",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctanh",
-   "linker_set_key" : "ctanh",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-215"
-    }
-   ],
-   "return_type" : "type-214",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctanhf",
-   "linker_set_key" : "ctanhf",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-217"
-    }
-   ],
-   "return_type" : "type-216",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctanhl",
-   "linker_set_key" : "ctanhl",
+   "function_name" : "ctanl",
+   "linker_set_key" : "ctanl",
    "parameters" :
    [
     {
@@ -2545,18 +2557,6 @@
     }
    ],
    "return_type" : "type-778",
-   "source_file" : "/bionic/libc/include/complex.h"
-  },
-  {
-   "function_name" : "ctanl",
-   "linker_set_key" : "ctanl",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-781"
-    }
-   ],
-   "return_type" : "type-780",
    "source_file" : "/bionic/libc/include/complex.h"
   },
   {
@@ -2856,7 +2856,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-546"
+     "referenced_type" : "type-292"
     }
    ],
    "return_type" : "type-1",
@@ -2874,7 +2874,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-546"
+     "referenced_type" : "type-292"
     },
     {
      "referenced_type" : "type-1"
@@ -2895,7 +2895,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-546"
+     "referenced_type" : "type-292"
     }
    ],
    "return_type" : "type-1",
@@ -3192,7 +3192,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-4",
@@ -3207,7 +3207,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-8",
@@ -3234,7 +3234,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-4",
@@ -3261,7 +3261,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-8",
@@ -3447,7 +3447,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-4",
@@ -3474,7 +3474,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-8",
@@ -3489,7 +3489,7 @@
      "referenced_type" : "type-4"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3501,7 +3501,7 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3513,7 +3513,7 @@
      "referenced_type" : "type-10"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3525,7 +3525,7 @@
      "referenced_type" : "type-4"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3537,7 +3537,7 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3549,7 +3549,7 @@
      "referenced_type" : "type-10"
     }
    ],
-   "return_type" : "type-262",
+   "return_type" : "type-284",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3705,7 +3705,7 @@
      "referenced_type" : "type-4"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3717,7 +3717,7 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3729,7 +3729,7 @@
      "referenced_type" : "type-10"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3741,7 +3741,7 @@
      "referenced_type" : "type-4"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3753,7 +3753,7 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3765,7 +3765,7 @@
      "referenced_type" : "type-10"
     }
    ],
-   "return_type" : "type-219",
+   "return_type" : "type-286",
    "source_file" : "/bionic/libc/include/math.h"
   },
   {
@@ -3777,7 +3777,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-48"
+     "referenced_type" : "type-96"
     }
    ],
    "return_type" : "type-4",
@@ -3792,7 +3792,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-542"
+     "referenced_type" : "type-289"
     }
    ],
    "return_type" : "type-8",
@@ -3819,7 +3819,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-545"
+     "referenced_type" : "type-291"
     }
    ],
    "return_type" : "type-4",
@@ -3831,7 +3831,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-545"
+     "referenced_type" : "type-291"
     }
    ],
    "return_type" : "type-8",
@@ -4005,7 +4005,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-4",
@@ -4023,7 +4023,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-33"
+     "referenced_type" : "type-85"
     }
    ],
    "return_type" : "type-8",
@@ -4128,7 +4128,7 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-219"
+     "referenced_type" : "type-286"
     }
    ],
    "return_type" : "type-4",
@@ -4143,7 +4143,7 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-219"
+     "referenced_type" : "type-286"
     }
    ],
    "return_type" : "type-8",
@@ -4158,7 +4158,7 @@
      "referenced_type" : "type-10"
     },
     {
-     "referenced_type" : "type-219"
+     "referenced_type" : "type-286"
     }
    ],
    "return_type" : "type-10",
@@ -4251,10 +4251,10 @@
      "referenced_type" : "type-4"
     },
     {
-     "referenced_type" : "type-48"
+     "referenced_type" : "type-96"
     },
     {
-     "referenced_type" : "type-48"
+     "referenced_type" : "type-96"
     }
    ],
    "return_type" : "type-21",
@@ -4269,10 +4269,10 @@
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-542"
+     "referenced_type" : "type-289"
     },
     {
-     "referenced_type" : "type-542"
+     "referenced_type" : "type-289"
     }
    ],
    "return_type" : "type-21",
@@ -4524,7 +4524,7 @@
   {
    "linker_set_key" : "__fe_dfl_env",
    "name" : "__fe_dfl_env",
-   "referenced_type" : "type-53",
+   "referenced_type" : "type-97",
    "source_file" : "/bionic/libc/include/fenv.h"
   },
   {
@@ -4541,8 +4541,8 @@
    "alignment" : 4,
    "linker_set_key" : "const char *",
    "name" : "const char *",
-   "referenced_type" : "type-544",
-   "self_type" : "type-545",
+   "referenced_type" : "type-290",
+   "self_type" : "type-291",
    "size" : 4,
    "source_file" : "/bionic/libc/include/math.h"
   },
@@ -4550,7 +4550,7 @@
    "alignment" : 4,
    "linker_set_key" : "const unsigned int *",
    "name" : "const unsigned int *",
-   "referenced_type" : "type-53",
+   "referenced_type" : "type-97",
    "self_type" : "type-685",
    "size" : 4,
    "source_file" : "/bionic/libc/include/fenv.h"
@@ -4560,7 +4560,7 @@
    "linker_set_key" : "double *",
    "name" : "double *",
    "referenced_type" : "type-4",
-   "self_type" : "type-48",
+   "self_type" : "type-96",
    "size" : 4,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -4569,7 +4569,7 @@
    "linker_set_key" : "float *",
    "name" : "float *",
    "referenced_type" : "type-8",
-   "self_type" : "type-542",
+   "self_type" : "type-289",
    "size" : 4,
    "source_file" : "/bionic/libc/include/math.h"
   },
@@ -4578,7 +4578,7 @@
    "linker_set_key" : "int *",
    "name" : "int *",
    "referenced_type" : "type-1",
-   "self_type" : "type-33",
+   "self_type" : "type-85",
    "size" : 4,
    "source_file" : "/bionic/libc/include/math.h"
   },
@@ -4596,7 +4596,7 @@
    "linker_set_key" : "unsigned int *",
    "name" : "unsigned int *",
    "referenced_type" : "type-12",
-   "self_type" : "type-546",
+   "self_type" : "type-292",
    "size" : 4,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -4617,8 +4617,8 @@
    "is_const" : true,
    "linker_set_key" : "char const[10]",
    "name" : "char const[10]",
-   "referenced_type" : "type-221",
-   "self_type" : "type-677",
+   "referenced_type" : "type-288",
+   "self_type" : "type-295",
    "size" : 10,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/w_cabsf.c"
   },
@@ -4627,8 +4627,8 @@
    "is_const" : true,
    "linker_set_key" : "const char",
    "name" : "const char",
-   "referenced_type" : "type-220",
-   "self_type" : "type-544",
+   "referenced_type" : "type-287",
+   "self_type" : "type-290",
    "size" : 1,
    "source_file" : "/bionic/libc/include/math.h"
   },
@@ -4668,7 +4668,7 @@
    "linker_set_key" : "const float",
    "name" : "const float",
    "referenced_type" : "type-8",
-   "self_type" : "type-80",
+   "self_type" : "type-51",
    "size" : 4,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/catrigf.c"
   },
@@ -4748,7 +4748,7 @@
    "linker_set_key" : "const unsigned int",
    "name" : "const unsigned int",
    "referenced_type" : "type-12",
-   "self_type" : "type-53",
+   "self_type" : "type-97",
    "size" : 4,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_exp.c"
   },
@@ -4759,7 +4759,7 @@
    "linker_set_key" : "const volatile double",
    "name" : "const volatile double",
    "referenced_type" : "type-4",
-   "self_type" : "type-65",
+   "self_type" : "type-48",
    "size" : 8,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/catrig.c"
   },
@@ -4770,7 +4770,7 @@
    "linker_set_key" : "const volatile float",
    "name" : "const volatile float",
    "referenced_type" : "type-8",
-   "self_type" : "type-67",
+   "self_type" : "type-49",
    "size" : 4,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/catrig.c"
   },
@@ -4779,8 +4779,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[11]",
    "name" : "double const[11]",
-   "referenced_type" : "type-71",
-   "self_type" : "type-72",
+   "referenced_type" : "type-109",
+   "self_type" : "type-110",
    "size" : 88,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -4789,8 +4789,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[16]",
    "name" : "double const[16]",
-   "referenced_type" : "type-66",
-   "self_type" : "type-68",
+   "referenced_type" : "type-104",
+   "self_type" : "type-105",
    "size" : 128,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_tan.c"
   },
@@ -4809,8 +4809,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[4]",
    "name" : "double const[4]",
-   "referenced_type" : "type-69",
-   "self_type" : "type-70",
+   "referenced_type" : "type-107",
+   "self_type" : "type-108",
    "size" : 32,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -4819,8 +4819,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[5]",
    "name" : "double const[5]",
-   "referenced_type" : "type-38",
-   "self_type" : "type-39",
+   "referenced_type" : "type-88",
+   "self_type" : "type-89",
    "size" : 40,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -4829,8 +4829,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[6]",
    "name" : "double const[6]",
-   "referenced_type" : "type-36",
-   "self_type" : "type-37",
+   "referenced_type" : "type-86",
+   "self_type" : "type-87",
    "size" : 48,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -4839,8 +4839,8 @@
    "is_const" : true,
    "linker_set_key" : "double const[8]",
    "name" : "double const[8]",
-   "referenced_type" : "type-63",
-   "self_type" : "type-64",
+   "referenced_type" : "type-102",
+   "self_type" : "type-103",
    "size" : 64,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -4859,8 +4859,8 @@
    "is_const" : true,
    "linker_set_key" : "float const[4]",
    "name" : "float const[4]",
-   "referenced_type" : "type-73",
-   "self_type" : "type-74",
+   "referenced_type" : "type-111",
+   "self_type" : "type-112",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_atanf.c"
   },
@@ -4869,8 +4869,8 @@
    "is_const" : true,
    "linker_set_key" : "float const[5]",
    "name" : "float const[5]",
-   "referenced_type" : "type-42",
-   "self_type" : "type-43",
+   "referenced_type" : "type-92",
+   "self_type" : "type-93",
    "size" : 20,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -4879,8 +4879,8 @@
    "is_const" : true,
    "linker_set_key" : "float const[6]",
    "name" : "float const[6]",
-   "referenced_type" : "type-40",
-   "self_type" : "type-41",
+   "referenced_type" : "type-90",
+   "self_type" : "type-91",
    "size" : 24,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -4889,8 +4889,8 @@
    "is_const" : true,
    "linker_set_key" : "int const[4]",
    "name" : "int const[4]",
-   "referenced_type" : "type-59",
-   "self_type" : "type-60",
+   "referenced_type" : "type-98",
+   "self_type" : "type-99",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -4899,8 +4899,8 @@
    "is_const" : true,
    "linker_set_key" : "int const[66]",
    "name" : "int const[66]",
-   "referenced_type" : "type-61",
-   "self_type" : "type-62",
+   "referenced_type" : "type-100",
+   "self_type" : "type-101",
    "size" : 264,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -4919,8 +4919,8 @@
    "is_const" : true,
    "linker_set_key" : "unsigned int const[24]",
    "name" : "unsigned int const[24]",
-   "referenced_type" : "type-1248",
-   "self_type" : "type-1249",
+   "referenced_type" : "type-1162",
+   "self_type" : "type-1163",
    "size" : 96,
    "source_file" : "/external/arm-optimized-routines/math/sincosf_data.c"
   },
@@ -4987,6 +4987,28 @@
     },
     {
      "field_name" : "bits",
+     "referenced_type" : "type-119"
+    }
+   ],
+   "linker_set_key" : "IEEEd2bits",
+   "name" : "IEEEd2bits",
+   "record_kind" : "union",
+   "referenced_type" : "type-118",
+   "self_type" : "type-118",
+   "size" : 8,
+   "source_file" : "/bionic/libm/fpmath.h",
+   "unique_id" : "IEEEd2bits"
+  },
+  {
+   "alignment" : 8,
+   "fields" :
+   [
+    {
+     "field_name" : "d",
+     "referenced_type" : "type-4"
+    },
+    {
+     "field_name" : "bits",
      "referenced_type" : "type-681"
     }
    ],
@@ -5000,26 +5022,37 @@
    "unique_id" : "_ZTS10IEEEd2bits"
   },
   {
-   "alignment" : 8,
+   "alignment" : 4,
    "fields" :
    [
     {
-     "field_name" : "d",
-     "referenced_type" : "type-4"
+     "field_name" : "manl",
+     "referenced_type" : "type-12"
     },
     {
-     "field_name" : "bits",
-     "referenced_type" : "type-79"
+     "field_name" : "manh",
+     "field_offset" : 32,
+     "referenced_type" : "type-12"
+    },
+    {
+     "field_name" : "exp",
+     "field_offset" : 52,
+     "referenced_type" : "type-12"
+    },
+    {
+     "field_name" : "sign",
+     "field_offset" : 63,
+     "referenced_type" : "type-12"
     }
    ],
-   "linker_set_key" : "IEEEd2bits",
-   "name" : "IEEEd2bits",
-   "record_kind" : "union",
-   "referenced_type" : "type-78",
-   "self_type" : "type-78",
+   "is_anonymous" : true,
+   "linker_set_key" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3) at bionic/libm/fpmath.h:54:3",
+   "name" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3) at bionic/libm/fpmath.h:54:3",
+   "referenced_type" : "type-119",
+   "self_type" : "type-119",
    "size" : 8,
    "source_file" : "/bionic/libm/fpmath.h",
-   "unique_id" : "IEEEd2bits"
+   "unique_id" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3)"
   },
   {
    "alignment" : 4,
@@ -5059,33 +5092,22 @@
    "fields" :
    [
     {
-     "field_name" : "manl",
-     "referenced_type" : "type-12"
+     "field_name" : "f",
+     "referenced_type" : "type-8"
     },
     {
-     "field_name" : "manh",
-     "field_offset" : 32,
-     "referenced_type" : "type-12"
-    },
-    {
-     "field_name" : "exp",
-     "field_offset" : 52,
-     "referenced_type" : "type-12"
-    },
-    {
-     "field_name" : "sign",
-     "field_offset" : 63,
-     "referenced_type" : "type-12"
+     "field_name" : "bits",
+     "referenced_type" : "type-117"
     }
    ],
-   "is_anonymous" : true,
-   "linker_set_key" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3) at bionic/libm/fpmath.h:54:3",
-   "name" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3) at bionic/libm/fpmath.h:54:3",
-   "referenced_type" : "type-79",
-   "self_type" : "type-79",
-   "size" : 8,
+   "linker_set_key" : "IEEEf2bits",
+   "name" : "IEEEf2bits",
+   "record_kind" : "union",
+   "referenced_type" : "type-116",
+   "self_type" : "type-116",
+   "size" : 4,
    "source_file" : "/bionic/libm/fpmath.h",
-   "unique_id" : "IEEEd2bits::(anonymous struct at bionic/libm/fpmath.h:54:3)"
+   "unique_id" : "IEEEf2bits"
   },
   {
    "alignment" : 4,
@@ -5114,22 +5136,28 @@
    "fields" :
    [
     {
-     "field_name" : "f",
-     "referenced_type" : "type-8"
+     "field_name" : "man",
+     "referenced_type" : "type-12"
     },
     {
-     "field_name" : "bits",
-     "referenced_type" : "type-77"
+     "field_name" : "exp",
+     "field_offset" : 23,
+     "referenced_type" : "type-12"
+    },
+    {
+     "field_name" : "sign",
+     "field_offset" : 31,
+     "referenced_type" : "type-12"
     }
    ],
-   "linker_set_key" : "IEEEf2bits",
-   "name" : "IEEEf2bits",
-   "record_kind" : "union",
-   "referenced_type" : "type-76",
-   "self_type" : "type-76",
+   "is_anonymous" : true,
+   "linker_set_key" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3) at bionic/libm/fpmath.h:42:3",
+   "name" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3) at bionic/libm/fpmath.h:42:3",
+   "referenced_type" : "type-117",
+   "self_type" : "type-117",
    "size" : 4,
    "source_file" : "/bionic/libm/fpmath.h",
-   "unique_id" : "IEEEf2bits"
+   "unique_id" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3)"
   },
   {
    "alignment" : 4,
@@ -5158,34 +5186,6 @@
    "size" : 4,
    "source_file" : "/bionic/libm/fpmath.h",
    "unique_id" : "_ZTSN10IEEEf2bitsUt_E"
-  },
-  {
-   "alignment" : 4,
-   "fields" :
-   [
-    {
-     "field_name" : "man",
-     "referenced_type" : "type-12"
-    },
-    {
-     "field_name" : "exp",
-     "field_offset" : 23,
-     "referenced_type" : "type-12"
-    },
-    {
-     "field_name" : "sign",
-     "field_offset" : 31,
-     "referenced_type" : "type-12"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3) at bionic/libm/fpmath.h:42:3",
-   "name" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3) at bionic/libm/fpmath.h:42:3",
-   "referenced_type" : "type-77",
-   "self_type" : "type-77",
-   "size" : 4,
-   "source_file" : "/bionic/libm/fpmath.h",
-   "unique_id" : "IEEEf2bits::(anonymous struct at bionic/libm/fpmath.h:42:3)"
   },
   {
    "alignment" : 4,
@@ -5237,8 +5237,8 @@
    ],
    "linker_set_key" : "dd",
    "name" : "dd",
-   "referenced_type" : "type-179",
-   "self_type" : "type-179",
+   "referenced_type" : "type-333",
+   "self_type" : "type-333",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/s_fma.c",
    "unique_id" : "dd"
@@ -5249,7 +5249,7 @@
    [
     {
      "field_name" : "f",
-     "referenced_type" : "type-52"
+     "referenced_type" : "type-42"
     },
     {
      "field_name" : "a",
@@ -5259,8 +5259,8 @@
    "linker_set_key" : "double_complex",
    "name" : "double_complex",
    "record_kind" : "union",
-   "referenced_type" : "type-51",
-   "self_type" : "type-51",
+   "referenced_type" : "type-41",
+   "self_type" : "type-41",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "double_complex"
@@ -5333,7 +5333,7 @@
     {
      "field_name" : "poly",
      "field_offset" : 256,
-     "referenced_type" : "type-69"
+     "referenced_type" : "type-107"
     },
     {
      "field_name" : "exp2_shift",
@@ -5343,7 +5343,7 @@
     {
      "field_name" : "exp2_poly",
      "field_offset" : 576,
-     "referenced_type" : "type-38"
+     "referenced_type" : "type-88"
     },
     {
      "field_name" : "tab",
@@ -5365,7 +5365,7 @@
    [
     {
      "field_name" : "f",
-     "referenced_type" : "type-50"
+     "referenced_type" : "type-40"
     },
     {
      "field_name" : "a",
@@ -5375,8 +5375,8 @@
    "linker_set_key" : "float_complex",
    "name" : "float_complex",
    "record_kind" : "union",
-   "referenced_type" : "type-49",
-   "self_type" : "type-49",
+   "referenced_type" : "type-39",
+   "self_type" : "type-39",
    "size" : 8,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "float_complex"
@@ -5465,8 +5465,8 @@
    "is_anonymous" : true,
    "linker_set_key" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:115:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:115:3",
    "name" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:115:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:115:3",
-   "referenced_type" : "type-46",
-   "self_type" : "type-46",
+   "referenced_type" : "type-37",
+   "self_type" : "type-37",
    "size" : 8,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:115:3)"
@@ -5483,8 +5483,8 @@
    "is_anonymous" : true,
    "linker_set_key" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:120:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:120:3",
    "name" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:120:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:120:3",
-   "referenced_type" : "type-47",
-   "self_type" : "type-47",
+   "referenced_type" : "type-38",
+   "self_type" : "type-38",
    "size" : 8,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "ieee_double_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:120:3)"
@@ -5620,8 +5620,8 @@
    "is_anonymous" : true,
    "linker_set_key" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:78:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:78:3",
    "name" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:78:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:78:3",
-   "referenced_type" : "type-44",
-   "self_type" : "type-44",
+   "referenced_type" : "type-35",
+   "self_type" : "type-35",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:78:3)"
@@ -5643,8 +5643,8 @@
    "is_anonymous" : true,
    "linker_set_key" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:84:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:84:3",
    "name" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:84:3) at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:84:3",
-   "referenced_type" : "type-45",
-   "self_type" : "type-45",
+   "referenced_type" : "type-36",
+   "self_type" : "type-36",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "ieee_quad_shape_type::(anonymous struct at bionic/libm/upstream-freebsd/lib/msun/src/math_private.h:84:3)"
@@ -5665,7 +5665,7 @@
     {
      "field_name" : "poly",
      "field_offset" : 128,
-     "referenced_type" : "type-36"
+     "referenced_type" : "type-86"
     },
     {
      "field_name" : "poly1",
@@ -5748,7 +5748,7 @@
     {
      "field_name" : "poly",
      "field_offset" : 2048,
-     "referenced_type" : "type-69"
+     "referenced_type" : "type-107"
     }
    ],
    "linker_set_key" : "log2f_data",
@@ -5798,12 +5798,12 @@
     {
      "field_name" : "poly",
      "field_offset" : 128,
-     "referenced_type" : "type-38"
+     "referenced_type" : "type-88"
     },
     {
      "field_name" : "poly1",
      "field_offset" : 448,
-     "referenced_type" : "type-71"
+     "referenced_type" : "type-109"
     },
     {
      "field_name" : "tab",
@@ -5926,18 +5926,18 @@
    [
     {
      "field_name" : "f",
-     "referenced_type" : "type-57"
+     "referenced_type" : "type-46"
     },
     {
      "field_name" : "a",
-     "referenced_type" : "type-58"
+     "referenced_type" : "type-47"
     }
    ],
    "linker_set_key" : "long_double_complex",
    "name" : "long_double_complex",
    "record_kind" : "union",
-   "referenced_type" : "type-56",
-   "self_type" : "type-56",
+   "referenced_type" : "type-45",
+   "self_type" : "type-45",
    "size" : 16,
    "source_file" : "/bionic/libm/upstream-freebsd/lib/msun/src/math_private.h",
    "unique_id" : "long_double_complex"
@@ -5948,7 +5948,7 @@
    [
     {
      "field_name" : "__clang_max_align_nonce1",
-     "referenced_type" : "type-262"
+     "referenced_type" : "type-284"
     },
     {
      "field_name" : "__clang_max_align_nonce2",
@@ -5961,7 +5961,7 @@
    "referenced_type" : "type-682",
    "self_type" : "type-682",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/__stddef_max_align_t.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/__stddef_max_align_t.h",
    "unique_id" : "_ZTS11max_align_t"
   },
   {
@@ -6040,7 +6040,7 @@
     {
      "field_name" : "poly",
      "field_offset" : 2048,
-     "referenced_type" : "type-38"
+     "referenced_type" : "type-88"
     }
    ],
    "linker_set_key" : "powf_log2_data",
@@ -6122,13 +6122,13 @@
    [
     {
      "field_name" : "__private",
-     "referenced_type" : "type-35"
+     "referenced_type" : "type-34"
     }
    ],
    "linker_set_key" : "pthread_barrier_t",
    "name" : "pthread_barrier_t",
-   "referenced_type" : "type-34",
-   "self_type" : "type-34",
+   "referenced_type" : "type-33",
+   "self_type" : "type-33",
    "size" : 32,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h",
    "unique_id" : "pthread_barrier_t"
@@ -6139,13 +6139,13 @@
    [
     {
      "field_name" : "__private",
-     "referenced_type" : "type-55"
+     "referenced_type" : "type-44"
     }
    ],
    "linker_set_key" : "pthread_cond_t",
    "name" : "pthread_cond_t",
-   "referenced_type" : "type-54",
-   "self_type" : "type-54",
+   "referenced_type" : "type-43",
+   "self_type" : "type-43",
    "size" : 4,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h",
    "unique_id" : "pthread_cond_t"
@@ -6156,13 +6156,13 @@
    [
     {
      "field_name" : "__private",
-     "referenced_type" : "type-55"
+     "referenced_type" : "type-44"
     }
    ],
    "linker_set_key" : "pthread_mutex_t",
    "name" : "pthread_mutex_t",
-   "referenced_type" : "type-75",
-   "self_type" : "type-75",
+   "referenced_type" : "type-50",
+   "self_type" : "type-50",
    "size" : 4,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h",
    "unique_id" : "pthread_mutex_t"
@@ -6178,8 +6178,8 @@
    ],
    "linker_set_key" : "pthread_rwlock_t",
    "name" : "pthread_rwlock_t",
-   "referenced_type" : "type-81",
-   "self_type" : "type-81",
+   "referenced_type" : "type-52",
+   "self_type" : "type-52",
    "size" : 40,
    "source_file" : "/bionic/libc/include/bits/pthread_types.h",
    "unique_id" : "pthread_rwlock_t"
@@ -6207,7 +6207,7 @@
    [
     {
      "field_name" : "sign",
-     "referenced_type" : "type-69"
+     "referenced_type" : "type-107"
     },
     {
      "field_name" : "hpi_inv",

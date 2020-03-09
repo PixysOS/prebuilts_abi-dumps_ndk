@@ -5375,7 +5375,7 @@
      "referenced_type" : "type-157"
     },
     {
-     "referenced_type" : "type-513"
+     "referenced_type" : "type-729"
     }
    ],
    "return_type" : "type-4",
@@ -5877,7 +5877,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
      "referenced_type" : "type-4"
@@ -5899,7 +5899,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
      "referenced_type" : "type-4"
@@ -5930,10 +5930,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
-     "referenced_type" : "type-578"
+     "referenced_type" : "type-794"
     }
    ],
    "return_type" : "type-4",
@@ -5946,7 +5946,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-4",
@@ -5959,7 +5959,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
      "referenced_type" : "type-4"
@@ -5975,7 +5975,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-4",
@@ -5988,7 +5988,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
      "referenced_type" : "type-4"
@@ -6004,7 +6004,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-4",
@@ -6017,7 +6017,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
      "referenced_type" : "type-4"
@@ -6033,7 +6033,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6046,13 +6046,13 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     },
     {
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
-     "referenced_type" : "type-580"
+     "referenced_type" : "type-796"
     }
    ],
    "return_type" : "type-4",
@@ -6065,7 +6065,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6078,7 +6078,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6091,7 +6091,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6104,7 +6104,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6117,7 +6117,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-571"
+     "referenced_type" : "type-787"
     }
    ],
    "return_type" : "type-54",
@@ -6392,7 +6392,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-4",
@@ -6405,10 +6405,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
-     "referenced_type" : "type-590"
+     "referenced_type" : "type-806"
     }
    ],
    "return_type" : "type-4",
@@ -6422,10 +6422,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
-     "referenced_type" : "type-583"
+     "referenced_type" : "type-799"
     }
    ],
    "return_type" : "type-4",
@@ -6438,7 +6438,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6451,7 +6451,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-4",
@@ -6464,10 +6464,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
-     "referenced_type" : "type-583"
+     "referenced_type" : "type-799"
     },
     {
      "referenced_type" : "type-4"
@@ -6483,7 +6483,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
      "referenced_type" : "type-4"
@@ -6505,7 +6505,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6518,7 +6518,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6531,7 +6531,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6544,7 +6544,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6557,7 +6557,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     }
    ],
    "return_type" : "type-54",
@@ -6570,10 +6570,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     },
     {
-     "referenced_type" : "type-598"
+     "referenced_type" : "type-814"
     }
    ],
    "return_type" : "type-4",
@@ -6586,7 +6586,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -6599,7 +6599,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     },
     {
      "referenced_type" : "type-4"
@@ -6621,10 +6621,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     },
     {
-     "referenced_type" : "type-579"
+     "referenced_type" : "type-795"
     },
     {
      "referenced_type" : "type-258"
@@ -6640,7 +6640,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -6653,7 +6653,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -6666,7 +6666,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -6679,7 +6679,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -6692,7 +6692,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-591"
+     "referenced_type" : "type-807"
     }
    ],
    "return_type" : "type-54",
@@ -7117,10 +7117,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     },
     {
-     "referenced_type" : "type-521"
+     "referenced_type" : "type-737"
     }
    ],
    "return_type" : "type-4",
@@ -7133,7 +7133,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     }
    ],
    "return_type" : "type-54",
@@ -7146,7 +7146,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     }
    ],
    "return_type" : "type-54",
@@ -7159,7 +7159,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     }
    ],
    "return_type" : "type-54",
@@ -7172,7 +7172,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     }
    ],
    "return_type" : "type-54",
@@ -7185,7 +7185,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     }
    ],
    "return_type" : "type-54",
@@ -7681,16 +7681,16 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-528"
+     "referenced_type" : "type-744"
     }
    ],
-   "return_type" : "type-600",
+   "return_type" : "type-816",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
    "function_name" : "android::IAAudioClient::getDefaultImpl",
    "linker_set_key" : "_ZN7android13IAAudioClient14getDefaultImplEv",
-   "return_type" : "type-533",
+   "return_type" : "type-749",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -7699,7 +7699,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-601"
+     "referenced_type" : "type-817"
     }
    ],
    "return_type" : "type-16",
@@ -7712,7 +7712,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-532"
+     "referenced_type" : "type-748"
     }
    ],
    "return_type" : "type-54",
@@ -7725,7 +7725,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-532"
+     "referenced_type" : "type-748"
     }
    ],
    "return_type" : "type-54",
@@ -7738,7 +7738,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-532"
+     "referenced_type" : "type-748"
     }
    ],
    "return_type" : "type-54",
@@ -7751,7 +7751,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-532"
+     "referenced_type" : "type-748"
     }
    ],
    "return_type" : "type-54",
@@ -7764,16 +7764,16 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-536"
+     "referenced_type" : "type-752"
     },
     {
      "referenced_type" : "type-1"
     },
     {
-     "referenced_type" : "type-539"
+     "referenced_type" : "type-755"
     },
     {
-     "referenced_type" : "type-540"
+     "referenced_type" : "type-756"
     },
     {
      "default_arg" : true,
@@ -7789,16 +7789,16 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-557"
+     "referenced_type" : "type-773"
     }
    ],
-   "return_type" : "type-602",
+   "return_type" : "type-818",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
    "function_name" : "android::IAAudioService::getDefaultImpl",
    "linker_set_key" : "_ZN7android14IAAudioService14getDefaultImplEv",
-   "return_type" : "type-562",
+   "return_type" : "type-778",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -7807,7 +7807,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-603"
+     "referenced_type" : "type-819"
     }
    ],
    "return_type" : "type-16",
@@ -7820,7 +7820,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-561"
+     "referenced_type" : "type-777"
     }
    ],
    "return_type" : "type-54",
@@ -7833,7 +7833,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-561"
+     "referenced_type" : "type-777"
     }
    ],
    "return_type" : "type-54",
@@ -7846,7 +7846,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-561"
+     "referenced_type" : "type-777"
     }
    ],
    "return_type" : "type-54",
@@ -7859,7 +7859,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-561"
+     "referenced_type" : "type-777"
     }
    ],
    "return_type" : "type-54",
@@ -7872,16 +7872,16 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-565"
+     "referenced_type" : "type-781"
     },
     {
      "referenced_type" : "type-1"
     },
     {
-     "referenced_type" : "type-568"
+     "referenced_type" : "type-784"
     },
     {
-     "referenced_type" : "type-569"
+     "referenced_type" : "type-785"
     },
     {
      "default_arg" : true,
@@ -8442,7 +8442,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     },
     {
      "referenced_type" : "type-8"
@@ -8461,7 +8461,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     },
     {
      "referenced_type" : "type-4"
@@ -8477,7 +8477,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     },
     {
      "referenced_type" : "type-4"
@@ -8493,7 +8493,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     }
    ],
    "return_type" : "type-54",
@@ -8506,7 +8506,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     }
    ],
    "return_type" : "type-54",
@@ -8519,7 +8519,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-817"
+     "referenced_type" : "type-516"
     }
    ],
    "return_type" : "type-54",
@@ -8532,7 +8532,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-820"
+     "referenced_type" : "type-519"
     },
     {
      "referenced_type" : "type-53"
@@ -8551,7 +8551,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-820"
+     "referenced_type" : "type-519"
     },
     {
      "referenced_type" : "type-4"
@@ -8567,7 +8567,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-820"
+     "referenced_type" : "type-519"
     },
     {
      "referenced_type" : "type-4"
@@ -8583,7 +8583,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-822"
+     "referenced_type" : "type-521"
     },
     {
      "referenced_type" : "type-53"
@@ -8602,7 +8602,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-822"
+     "referenced_type" : "type-521"
     },
     {
      "referenced_type" : "type-4"
@@ -8618,7 +8618,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-822"
+     "referenced_type" : "type-521"
     },
     {
      "referenced_type" : "type-4"
@@ -8651,7 +8651,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-819"
+     "referenced_type" : "type-518"
     },
     {
      "referenced_type" : "type-53"
@@ -8670,7 +8670,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-819"
+     "referenced_type" : "type-518"
     },
     {
      "referenced_type" : "type-4"
@@ -8686,7 +8686,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-819"
+     "referenced_type" : "type-518"
     },
     {
      "referenced_type" : "type-4"
@@ -8989,7 +8989,7 @@
      "referenced_type" : "type-156"
     },
     {
-     "referenced_type" : "type-509"
+     "referenced_type" : "type-725"
     }
    ],
    "return_type" : "type-4",
@@ -9081,10 +9081,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-573"
+     "referenced_type" : "type-789"
     },
     {
-     "referenced_type" : "type-574"
+     "referenced_type" : "type-790"
     }
    ],
    "return_type" : "type-4",
@@ -9098,7 +9098,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-573"
+     "referenced_type" : "type-789"
     }
    ],
    "return_type" : "type-4",
@@ -9286,10 +9286,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-585"
+     "referenced_type" : "type-801"
     },
     {
-     "referenced_type" : "type-586"
+     "referenced_type" : "type-802"
     }
    ],
    "return_type" : "type-4",
@@ -9303,7 +9303,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-585"
+     "referenced_type" : "type-801"
     }
    ],
    "return_type" : "type-4",
@@ -9316,10 +9316,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-593"
+     "referenced_type" : "type-809"
     },
     {
-     "referenced_type" : "type-594"
+     "referenced_type" : "type-810"
     }
    ],
    "return_type" : "type-4",
@@ -9333,7 +9333,7 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-593"
+     "referenced_type" : "type-809"
     }
    ],
    "return_type" : "type-4",
@@ -9376,10 +9376,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-516"
+     "referenced_type" : "type-732"
     },
     {
-     "referenced_type" : "type-517"
+     "referenced_type" : "type-733"
     }
    ],
    "return_type" : "type-4",
@@ -9392,10 +9392,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-531"
+     "referenced_type" : "type-747"
     }
    ],
-   "return_type" : "type-529",
+   "return_type" : "type-745",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -9405,10 +9405,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-560"
+     "referenced_type" : "type-776"
     }
    ],
-   "return_type" : "type-558",
+   "return_type" : "type-774",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -9437,16 +9437,16 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-536"
+     "referenced_type" : "type-752"
     },
     {
      "referenced_type" : "type-1"
     },
     {
-     "referenced_type" : "type-539"
+     "referenced_type" : "type-755"
     },
     {
-     "referenced_type" : "type-540"
+     "referenced_type" : "type-756"
     },
     {
      "default_arg" : true,
@@ -9463,16 +9463,16 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-565"
+     "referenced_type" : "type-781"
     },
     {
      "referenced_type" : "type-1"
     },
     {
-     "referenced_type" : "type-568"
+     "referenced_type" : "type-784"
     },
     {
-     "referenced_type" : "type-569"
+     "referenced_type" : "type-785"
     },
     {
      "default_arg" : true,
@@ -9489,10 +9489,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-515"
+     "referenced_type" : "type-731"
     },
     {
-     "referenced_type" : "type-521"
+     "referenced_type" : "type-737"
     }
    ],
    "return_type" : "type-4",
@@ -9505,10 +9505,10 @@
    [
     {
      "is_this_ptr" : true,
-     "referenced_type" : "type-516"
+     "referenced_type" : "type-732"
     },
     {
-     "referenced_type" : "type-517"
+     "referenced_type" : "type-733"
     }
    ],
    "return_type" : "type-4",
@@ -9658,8 +9658,8 @@
    "alignment" : 4,
    "linker_set_key" : "const aaudio::AudioStreamBuilder &",
    "name" : "const aaudio::AudioStreamBuilder &",
-   "referenced_type" : "type-774",
-   "self_type" : "type-776",
+   "referenced_type" : "type-689",
+   "self_type" : "type-691",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/client/AudioStreamInternalPlay.h"
   },
@@ -9811,8 +9811,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::AudioClient &",
    "name" : "const android::AudioClient &",
-   "referenced_type" : "type-547",
-   "self_type" : "type-549",
+   "referenced_type" : "type-585",
+   "self_type" : "type-587",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -9820,17 +9820,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::AudioClient &",
    "name" : "const android::AudioClient &",
-   "referenced_type" : "type-670",
-   "self_type" : "type-672",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "const android::AudioClient &",
-   "name" : "const android::AudioClient &",
-   "referenced_type" : "type-745",
-   "self_type" : "type-747",
+   "referenced_type" : "type-660",
+   "self_type" : "type-662",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/client/AudioStreamInternal.h"
   },
@@ -9838,8 +9829,17 @@
    "alignment" : 4,
    "linker_set_key" : "const android::AudioClient &",
    "name" : "const android::AudioClient &",
-   "referenced_type" : "type-804",
-   "self_type" : "type-806",
+   "referenced_type" : "type-719",
+   "self_type" : "type-721",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const android::AudioClient &",
+   "name" : "const android::AudioClient &",
+   "referenced_type" : "type-763",
+   "self_type" : "type-765",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -9919,8 +9919,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel &",
    "name" : "const android::Parcel &",
-   "referenced_type" : "type-537",
-   "self_type" : "type-539",
+   "referenced_type" : "type-753",
+   "self_type" : "type-755",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -9928,8 +9928,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel &",
    "name" : "const android::Parcel &",
-   "referenced_type" : "type-566",
-   "self_type" : "type-568",
+   "referenced_type" : "type-782",
+   "self_type" : "type-784",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -9991,8 +9991,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::String16 &",
    "name" : "const android::String16 &",
-   "referenced_type" : "type-524",
-   "self_type" : "type-529",
+   "referenced_type" : "type-740",
+   "self_type" : "type-745",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -10000,8 +10000,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::String16 &",
    "name" : "const android::String16 &",
-   "referenced_type" : "type-553",
-   "self_type" : "type-558",
+   "referenced_type" : "type-769",
+   "self_type" : "type-774",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -10063,19 +10063,19 @@
    "alignment" : 4,
    "linker_set_key" : "const android::base::unique_fd_impl<android::base::DefaultCloser> &",
    "name" : "const android::base::unique_fd_impl<android::base::DefaultCloser> &",
-   "referenced_type" : "type-581",
-   "self_type" : "type-583",
+   "referenced_type" : "type-698",
+   "self_type" : "type-700",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const android::base::unique_fd_impl<android::base::DefaultCloser> &",
    "name" : "const android::base::unique_fd_impl<android::base::DefaultCloser> &",
-   "referenced_type" : "type-783",
-   "self_type" : "type-785",
+   "referenced_type" : "type-797",
+   "self_type" : "type-799",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
    "alignment" : 4,
@@ -10198,8 +10198,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::sp<android::IAAudioClient> &",
    "name" : "const android::sp<android::IAAudioClient> &",
-   "referenced_type" : "type-544",
-   "self_type" : "type-546",
+   "referenced_type" : "type-582",
+   "self_type" : "type-584",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10207,8 +10207,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::sp<android::IAAudioClient> &",
    "name" : "const android::sp<android::IAAudioClient> &",
-   "referenced_type" : "type-667",
-   "self_type" : "type-669",
+   "referenced_type" : "type-714",
+   "self_type" : "type-716",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10216,8 +10216,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::sp<android::IAAudioClient> &",
    "name" : "const android::sp<android::IAAudioClient> &",
-   "referenced_type" : "type-799",
-   "self_type" : "type-801",
+   "referenced_type" : "type-760",
+   "self_type" : "type-762",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10288,8 +10288,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::sp<android::IBinder> &",
    "name" : "const android::sp<android::IBinder> &",
-   "referenced_type" : "type-526",
-   "self_type" : "type-528",
+   "referenced_type" : "type-742",
+   "self_type" : "type-744",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -10297,8 +10297,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::sp<android::IBinder> &",
    "name" : "const android::sp<android::IBinder> &",
-   "referenced_type" : "type-555",
-   "self_type" : "type-557",
+   "referenced_type" : "type-771",
+   "self_type" : "type-773",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -10414,8 +10414,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::wp<android::IBinder> &",
    "name" : "const android::wp<android::IBinder> &",
-   "referenced_type" : "type-550",
-   "self_type" : "type-552",
+   "referenced_type" : "type-591",
+   "self_type" : "type-593",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10423,8 +10423,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::wp<android::IBinder> &",
    "name" : "const android::wp<android::IBinder> &",
-   "referenced_type" : "type-676",
-   "self_type" : "type-678",
+   "referenced_type" : "type-722",
+   "self_type" : "type-724",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10432,8 +10432,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::wp<android::IBinder> &",
    "name" : "const android::wp<android::IBinder> &",
-   "referenced_type" : "type-807",
-   "self_type" : "type-809",
+   "referenced_type" : "type-766",
+   "self_type" : "type-768",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -10477,8 +10477,8 @@
    "alignment" : 4,
    "linker_set_key" : "const std::unique_ptr<android::IAAudioClient, std::default_delete<android::IAAudioClient> > &",
    "name" : "const std::unique_ptr<android::IAAudioClient, std::default_delete<android::IAAudioClient> > &",
-   "referenced_type" : "type-534",
-   "self_type" : "type-533",
+   "referenced_type" : "type-750",
+   "self_type" : "type-749",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -10513,8 +10513,8 @@
    "alignment" : 4,
    "linker_set_key" : "const std::unique_ptr<android::IAAudioService, std::default_delete<android::IAAudioService> > &",
    "name" : "const std::unique_ptr<android::IAAudioService, std::default_delete<android::IAAudioService> > &",
-   "referenced_type" : "type-563",
-   "self_type" : "type-562",
+   "referenced_type" : "type-779",
+   "self_type" : "type-778",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -10588,8 +10588,8 @@
    "alignment" : 4,
    "linker_set_key" : "AAudioStreamBuilderStruct *",
    "name" : "AAudioStreamBuilderStruct *",
-   "referenced_type" : "type-693",
-   "self_type" : "type-692",
+   "referenced_type" : "type-608",
+   "self_type" : "type-607",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/include/aaudio/AAudio.h"
   },
@@ -10651,8 +10651,8 @@
    "alignment" : 4,
    "linker_set_key" : "AAudioStreamBuilderStruct **",
    "name" : "AAudioStreamBuilderStruct **",
-   "referenced_type" : "type-692",
-   "self_type" : "type-696",
+   "referenced_type" : "type-607",
+   "self_type" : "type-611",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/include/aaudio/AAudio.h"
   },
@@ -11011,6 +11011,15 @@
    "alignment" : 4,
    "linker_set_key" : "AAudioStreamStruct *",
    "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-513",
+   "self_type" : "type-512",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
    "referenced_type" : "type-52",
    "self_type" : "type-51",
    "size" : 4,
@@ -11020,8 +11029,62 @@
    "alignment" : 4,
    "linker_set_key" : "AAudioStreamStruct *",
    "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-543",
-   "self_type" : "type-542",
+   "referenced_type" : "type-602",
+   "self_type" : "type-601",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/include/aaudio/AAudio.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-606",
+   "self_type" : "type-605",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-618",
+   "self_type" : "type-617",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-628",
+   "self_type" : "type-627",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-635",
+   "self_type" : "type-634",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-674",
+   "self_type" : "type-673",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "AAudioStreamStruct *",
+   "name" : "AAudioStreamStruct *",
+   "referenced_type" : "type-682",
+   "self_type" : "type-681",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -11032,42 +11095,6 @@
    "referenced_type" : "type-687",
    "self_type" : "type-686",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/include/aaudio/AAudio.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-691",
-   "self_type" : "type-690",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-703",
-   "self_type" : "type-702",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-713",
-   "self_type" : "type-712",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-720",
-   "self_type" : "type-719",
-   "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
   {
@@ -11076,33 +11103,6 @@
    "name" : "AAudioStreamStruct *",
    "referenced_type" : "type-759",
    "self_type" : "type-758",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-767",
-   "self_type" : "type-766",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-772",
-   "self_type" : "type-771",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "AAudioStreamStruct *",
-   "name" : "AAudioStreamStruct *",
-   "referenced_type" : "type-814",
-   "self_type" : "type-813",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -11227,8 +11227,8 @@
    "alignment" : 4,
    "linker_set_key" : "AAudioStreamStruct **",
    "name" : "AAudioStreamStruct **",
-   "referenced_type" : "type-686",
-   "self_type" : "type-689",
+   "referenced_type" : "type-601",
+   "self_type" : "type-604",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/include/aaudio/AAudio.h"
   },
@@ -11354,7 +11354,7 @@
    "linker_set_key" : "aaudio::AAudioStreamConfiguration *",
    "name" : "aaudio::AAudioStreamConfiguration *",
    "referenced_type" : "type-150",
-   "self_type" : "type-515",
+   "self_type" : "type-731",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
@@ -11516,7 +11516,7 @@
    "linker_set_key" : "aaudio::RingBufferDescriptor_s *",
    "name" : "aaudio::RingBufferDescriptor_s *",
    "referenced_type" : "type-40",
-   "self_type" : "type-580",
+   "self_type" : "type-796",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -11525,7 +11525,7 @@
    "linker_set_key" : "aaudio::RingBufferParcelable *",
    "name" : "aaudio::RingBufferParcelable *",
    "referenced_type" : "type-29",
-   "self_type" : "type-571",
+   "self_type" : "type-787",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -11534,7 +11534,7 @@
    "linker_set_key" : "aaudio::SharedMemoryParcelable *",
    "name" : "aaudio::SharedMemoryParcelable *",
    "referenced_type" : "type-35",
-   "self_type" : "type-579",
+   "self_type" : "type-795",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -11543,7 +11543,7 @@
    "linker_set_key" : "aaudio::SharedRegionParcelable *",
    "name" : "aaudio::SharedRegionParcelable *",
    "referenced_type" : "type-30",
-   "self_type" : "type-591",
+   "self_type" : "type-807",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
@@ -11552,7 +11552,7 @@
    "linker_set_key" : "android::BnAAudioClient *",
    "name" : "android::BnAAudioClient *",
    "referenced_type" : "type-165",
-   "self_type" : "type-536",
+   "self_type" : "type-752",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -11561,7 +11561,7 @@
    "linker_set_key" : "android::BnAAudioService *",
    "name" : "android::BnAAudioService *",
    "referenced_type" : "type-170",
-   "self_type" : "type-565",
+   "self_type" : "type-781",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -11614,8 +11614,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::ExtendedTimestamp *",
    "name" : "android::ExtendedTimestamp *",
-   "referenced_type" : "type-709",
-   "self_type" : "type-708",
+   "referenced_type" : "type-624",
+   "self_type" : "type-623",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/legacy/AudioStreamLegacy.h"
   },
@@ -11669,7 +11669,7 @@
    "linker_set_key" : "android::IAAudioClient *",
    "name" : "android::IAAudioClient *",
    "referenced_type" : "type-161",
-   "self_type" : "type-532",
+   "self_type" : "type-748",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -11678,7 +11678,7 @@
    "linker_set_key" : "android::IAAudioService *",
    "name" : "android::IAAudioService *",
    "referenced_type" : "type-168",
-   "self_type" : "type-561",
+   "self_type" : "type-777",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -11911,8 +11911,17 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-510",
-   "self_type" : "type-509",
+   "referenced_type" : "type-704",
+   "self_type" : "type-703",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "android::Parcel *",
+   "name" : "android::Parcel *",
+   "referenced_type" : "type-726",
+   "self_type" : "type-725",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
@@ -11920,8 +11929,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-518",
-   "self_type" : "type-517",
+   "referenced_type" : "type-734",
+   "self_type" : "type-733",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
@@ -11929,8 +11938,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-541",
-   "self_type" : "type-540",
+   "referenced_type" : "type-757",
+   "self_type" : "type-756",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -11938,8 +11947,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-570",
-   "self_type" : "type-569",
+   "referenced_type" : "type-786",
+   "self_type" : "type-785",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -11947,8 +11956,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-575",
-   "self_type" : "type-574",
+   "referenced_type" : "type-791",
+   "self_type" : "type-790",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -11956,8 +11965,8 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-587",
-   "self_type" : "type-586",
+   "referenced_type" : "type-803",
+   "self_type" : "type-802",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
@@ -11965,19 +11974,10 @@
    "alignment" : 4,
    "linker_set_key" : "android::Parcel *",
    "name" : "android::Parcel *",
-   "referenced_type" : "type-595",
-   "self_type" : "type-594",
+   "referenced_type" : "type-811",
+   "self_type" : "type-810",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "android::Parcel *",
-   "name" : "android::Parcel *",
-   "referenced_type" : "type-789",
-   "self_type" : "type-788",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
    "alignment" : 4,
@@ -12020,7 +12020,7 @@
    "linker_set_key" : "const aaudio::AAudioStreamConfiguration *",
    "name" : "const aaudio::AAudioStreamConfiguration *",
    "referenced_type" : "type-159",
-   "self_type" : "type-516",
+   "self_type" : "type-732",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
@@ -12145,8 +12145,8 @@
    "alignment" : 4,
    "linker_set_key" : "const aaudio::RingBufferParcelable *",
    "name" : "const aaudio::RingBufferParcelable *",
-   "referenced_type" : "type-572",
-   "self_type" : "type-573",
+   "referenced_type" : "type-788",
+   "self_type" : "type-789",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -12154,8 +12154,8 @@
    "alignment" : 4,
    "linker_set_key" : "const aaudio::SharedMemoryParcelable *",
    "name" : "const aaudio::SharedMemoryParcelable *",
-   "referenced_type" : "type-584",
-   "self_type" : "type-585",
+   "referenced_type" : "type-800",
+   "self_type" : "type-801",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
@@ -12163,8 +12163,8 @@
    "alignment" : 4,
    "linker_set_key" : "const aaudio::SharedRegionParcelable *",
    "name" : "const aaudio::SharedRegionParcelable *",
-   "referenced_type" : "type-592",
-   "self_type" : "type-593",
+   "referenced_type" : "type-808",
+   "self_type" : "type-809",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
@@ -12181,8 +12181,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::IAAudioClient *",
    "name" : "const android::IAAudioClient *",
-   "referenced_type" : "type-530",
-   "self_type" : "type-531",
+   "referenced_type" : "type-746",
+   "self_type" : "type-747",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -12190,8 +12190,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::IAAudioService *",
    "name" : "const android::IAAudioService *",
-   "referenced_type" : "type-559",
-   "self_type" : "type-560",
+   "referenced_type" : "type-775",
+   "self_type" : "type-776",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -12370,8 +12370,17 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel *",
    "name" : "const android::Parcel *",
-   "referenced_type" : "type-511",
-   "self_type" : "type-513",
+   "referenced_type" : "type-705",
+   "self_type" : "type-708",
+   "size" : 4,
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const android::Parcel *",
+   "name" : "const android::Parcel *",
+   "referenced_type" : "type-727",
+   "self_type" : "type-729",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
@@ -12379,8 +12388,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel *",
    "name" : "const android::Parcel *",
-   "referenced_type" : "type-519",
-   "self_type" : "type-521",
+   "referenced_type" : "type-735",
+   "self_type" : "type-737",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
@@ -12388,8 +12397,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel *",
    "name" : "const android::Parcel *",
-   "referenced_type" : "type-576",
-   "self_type" : "type-578",
+   "referenced_type" : "type-792",
+   "self_type" : "type-794",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -12397,8 +12406,8 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel *",
    "name" : "const android::Parcel *",
-   "referenced_type" : "type-588",
-   "self_type" : "type-590",
+   "referenced_type" : "type-804",
+   "self_type" : "type-806",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
@@ -12406,19 +12415,10 @@
    "alignment" : 4,
    "linker_set_key" : "const android::Parcel *",
    "name" : "const android::Parcel *",
-   "referenced_type" : "type-596",
-   "self_type" : "type-598",
+   "referenced_type" : "type-812",
+   "self_type" : "type-814",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "const android::Parcel *",
-   "name" : "const android::Parcel *",
-   "referenced_type" : "type-790",
-   "self_type" : "type-793",
-   "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
    "alignment" : 4,
@@ -12560,7 +12560,7 @@
    "linker_set_key" : "flowgraph::MonoToMultiConverter *",
    "name" : "flowgraph::MonoToMultiConverter *",
    "referenced_type" : "type-100",
-   "self_type" : "type-817",
+   "self_type" : "type-516",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/flowgraph/MonoToMultiConverter.h"
   },
@@ -12578,7 +12578,7 @@
    "linker_set_key" : "flowgraph::SinkFloat *",
    "name" : "flowgraph::SinkFloat *",
    "referenced_type" : "type-262",
-   "self_type" : "type-819",
+   "self_type" : "type-518",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/flowgraph/SinkFloat.h"
   },
@@ -12587,7 +12587,7 @@
    "linker_set_key" : "flowgraph::SinkI16 *",
    "name" : "flowgraph::SinkI16 *",
    "referenced_type" : "type-263",
-   "self_type" : "type-820",
+   "self_type" : "type-519",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/flowgraph/SinkI16.h"
   },
@@ -12596,7 +12596,7 @@
    "linker_set_key" : "flowgraph::SinkI24 *",
    "name" : "flowgraph::SinkI24 *",
    "referenced_type" : "type-266",
-   "self_type" : "type-822",
+   "self_type" : "type-521",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/flowgraph/SinkI24.h"
   },
@@ -12694,8 +12694,8 @@
    "alignment" : 4,
    "linker_set_key" : "std::atomic<long long> *",
    "name" : "std::atomic<long long> *",
-   "referenced_type" : "type-728",
-   "self_type" : "type-727",
+   "referenced_type" : "type-643",
+   "self_type" : "type-642",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/fifo/FifoControllerIndirect.h"
   },
@@ -12893,8 +12893,8 @@
    "is_const" : true,
    "linker_set_key" : "const aaudio::AudioStreamBuilder",
    "name" : "const aaudio::AudioStreamBuilder",
-   "referenced_type" : "type-775",
-   "self_type" : "type-774",
+   "referenced_type" : "type-690",
+   "self_type" : "type-689",
    "source_file" : "/frameworks/av/media/libaaudio/src/client/AudioStreamInternalPlay.h"
   },
   {
@@ -12981,7 +12981,7 @@
    "linker_set_key" : "const aaudio::RingBufferParcelable",
    "name" : "const aaudio::RingBufferParcelable",
    "referenced_type" : "type-29",
-   "self_type" : "type-572",
+   "self_type" : "type-788",
    "size" : 68,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
@@ -12991,7 +12991,7 @@
    "linker_set_key" : "const aaudio::SharedMemoryParcelable",
    "name" : "const aaudio::SharedMemoryParcelable",
    "referenced_type" : "type-35",
-   "self_type" : "type-584",
+   "self_type" : "type-800",
    "size" : 16,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
@@ -13001,7 +13001,7 @@
    "linker_set_key" : "const aaudio::SharedRegionParcelable",
    "name" : "const aaudio::SharedRegionParcelable",
    "referenced_type" : "type-30",
-   "self_type" : "type-592",
+   "self_type" : "type-808",
    "size" : 16,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
@@ -13160,8 +13160,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::AudioClient",
    "name" : "const android::AudioClient",
-   "referenced_type" : "type-548",
-   "self_type" : "type-547",
+   "referenced_type" : "type-586",
+   "self_type" : "type-585",
    "size" : 20,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -13170,18 +13170,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::AudioClient",
    "name" : "const android::AudioClient",
-   "referenced_type" : "type-671",
-   "self_type" : "type-670",
-   "size" : 20,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "const android::AudioClient",
-   "name" : "const android::AudioClient",
-   "referenced_type" : "type-746",
-   "self_type" : "type-745",
+   "referenced_type" : "type-661",
+   "self_type" : "type-660",
    "size" : 20,
    "source_file" : "/frameworks/av/media/libaaudio/src/client/AudioStreamInternal.h"
   },
@@ -13190,8 +13180,18 @@
    "is_const" : true,
    "linker_set_key" : "const android::AudioClient",
    "name" : "const android::AudioClient",
-   "referenced_type" : "type-805",
-   "self_type" : "type-804",
+   "referenced_type" : "type-720",
+   "self_type" : "type-719",
+   "size" : 20,
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "const android::AudioClient",
+   "name" : "const android::AudioClient",
+   "referenced_type" : "type-764",
+   "self_type" : "type-763",
    "size" : 20,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -13231,7 +13231,7 @@
    "linker_set_key" : "const android::IAAudioClient",
    "name" : "const android::IAAudioClient",
    "referenced_type" : "type-161",
-   "self_type" : "type-530",
+   "self_type" : "type-746",
    "size" : 12,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13241,7 +13241,7 @@
    "linker_set_key" : "const android::IAAudioService",
    "name" : "const android::IAAudioService",
    "referenced_type" : "type-168",
-   "self_type" : "type-559",
+   "self_type" : "type-775",
    "size" : 12,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -13252,7 +13252,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1007",
    "self_type" : "type-1006",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
@@ -13262,7 +13262,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1029",
    "self_type" : "type-1028",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
   {
@@ -13272,7 +13272,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1037",
    "self_type" : "type-1036",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
   {
@@ -13282,7 +13282,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1055",
    "self_type" : "type-1054",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -13292,7 +13292,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1084",
    "self_type" : "type-1083",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -13302,7 +13302,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1094",
    "self_type" : "type-1093",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
   {
@@ -13312,7 +13312,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1106",
    "self_type" : "type-1105",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
@@ -13322,7 +13322,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1114",
    "self_type" : "type-1113",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
   {
@@ -13332,7 +13332,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1315",
    "self_type" : "type-1314",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
@@ -13342,7 +13342,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1337",
    "self_type" : "type-1336",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
   {
@@ -13352,7 +13352,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1345",
    "self_type" : "type-1344",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
   {
@@ -13362,7 +13362,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1363",
    "self_type" : "type-1362",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -13372,7 +13372,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1392",
    "self_type" : "type-1391",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -13382,7 +13382,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1402",
    "self_type" : "type-1401",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
   {
@@ -13392,7 +13392,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1414",
    "self_type" : "type-1413",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
@@ -13402,7 +13402,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1422",
    "self_type" : "type-1421",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
   {
@@ -13412,7 +13412,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1447",
    "self_type" : "type-1446",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
@@ -13422,7 +13422,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1470",
    "self_type" : "type-1469",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
   {
@@ -13432,7 +13432,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1477",
    "self_type" : "type-1476",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
   {
@@ -13442,7 +13442,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1496",
    "self_type" : "type-1495",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -13452,7 +13452,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1527",
    "self_type" : "type-1526",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -13462,7 +13462,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1538",
    "self_type" : "type-1537",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
   {
@@ -13472,7 +13472,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1552",
    "self_type" : "type-1551",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
@@ -13482,7 +13482,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-1561",
    "self_type" : "type-1560",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
   },
   {
@@ -13492,7 +13492,7 @@
    "name" : "const android::Parcel",
    "referenced_type" : "type-490",
    "self_type" : "type-489",
-   "size" : 60,
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
@@ -13500,9 +13500,19 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-512",
-   "self_type" : "type-511",
-   "size" : 60,
+   "referenced_type" : "type-706",
+   "self_type" : "type-705",
+   "size" : 52,
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "const android::Parcel",
+   "name" : "const android::Parcel",
+   "referenced_type" : "type-728",
+   "self_type" : "type-727",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamRequest.h"
   },
   {
@@ -13510,9 +13520,9 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-520",
-   "self_type" : "type-519",
-   "size" : 60,
+   "referenced_type" : "type-736",
+   "self_type" : "type-735",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioStreamConfiguration.h"
   },
   {
@@ -13520,9 +13530,9 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-538",
-   "self_type" : "type-537",
-   "size" : 60,
+   "referenced_type" : "type-754",
+   "self_type" : "type-753",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
   {
@@ -13530,9 +13540,9 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-567",
-   "self_type" : "type-566",
-   "size" : 60,
+   "referenced_type" : "type-783",
+   "self_type" : "type-782",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
   {
@@ -13540,9 +13550,9 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-577",
-   "self_type" : "type-576",
-   "size" : 60,
+   "referenced_type" : "type-793",
+   "self_type" : "type-792",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/RingBufferParcelable.h"
   },
   {
@@ -13550,9 +13560,9 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-589",
-   "self_type" : "type-588",
-   "size" : 60,
+   "referenced_type" : "type-805",
+   "self_type" : "type-804",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
@@ -13560,20 +13570,10 @@
    "is_const" : true,
    "linker_set_key" : "const android::Parcel",
    "name" : "const android::Parcel",
-   "referenced_type" : "type-597",
-   "self_type" : "type-596",
-   "size" : 60,
+   "referenced_type" : "type-813",
+   "self_type" : "type-812",
+   "size" : 52,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedRegionParcelable.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "const android::Parcel",
-   "name" : "const android::Parcel",
-   "referenced_type" : "type-791",
-   "self_type" : "type-790",
-   "size" : 60,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
    "alignment" : 4,
@@ -13870,8 +13870,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-525",
-   "self_type" : "type-524",
+   "referenced_type" : "type-579",
+   "self_type" : "type-578",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13880,8 +13880,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-554",
-   "self_type" : "type-553",
+   "referenced_type" : "type-613",
+   "self_type" : "type-612",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13890,8 +13890,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-664",
-   "self_type" : "type-663",
+   "referenced_type" : "type-669",
+   "self_type" : "type-668",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13900,8 +13900,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-698",
-   "self_type" : "type-697",
+   "referenced_type" : "type-678",
+   "self_type" : "type-677",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13910,8 +13910,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-754",
-   "self_type" : "type-753",
+   "referenced_type" : "type-694",
+   "self_type" : "type-693",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13920,8 +13920,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-763",
-   "self_type" : "type-762",
+   "referenced_type" : "type-711",
+   "self_type" : "type-710",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13930,8 +13930,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-779",
-   "self_type" : "type-778",
+   "referenced_type" : "type-741",
+   "self_type" : "type-740",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -13940,8 +13940,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::String16",
    "name" : "const android::String16",
-   "referenced_type" : "type-796",
-   "self_type" : "type-795",
+   "referenced_type" : "type-770",
+   "self_type" : "type-769",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -14070,20 +14070,20 @@
    "is_const" : true,
    "linker_set_key" : "const android::base::unique_fd_impl<android::base::DefaultCloser>",
    "name" : "const android::base::unique_fd_impl<android::base::DefaultCloser>",
-   "referenced_type" : "type-582",
-   "self_type" : "type-581",
+   "referenced_type" : "type-699",
+   "self_type" : "type-698",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "const android::base::unique_fd_impl<android::base::DefaultCloser>",
    "name" : "const android::base::unique_fd_impl<android::base::DefaultCloser>",
-   "referenced_type" : "type-784",
-   "self_type" : "type-783",
+   "referenced_type" : "type-798",
+   "self_type" : "type-797",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AudioEndpointParcelable.h"
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/SharedMemoryParcelable.h"
   },
   {
    "alignment" : 4,
@@ -14480,8 +14480,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-523",
-   "self_type" : "type-522",
+   "referenced_type" : "type-511",
+   "self_type" : "type-510",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14490,8 +14490,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-674",
-   "self_type" : "type-673",
+   "referenced_type" : "type-589",
+   "self_type" : "type-588",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14500,8 +14500,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-695",
-   "self_type" : "type-694",
+   "referenced_type" : "type-610",
+   "self_type" : "type-609",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14510,8 +14510,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-701",
-   "self_type" : "type-700",
+   "referenced_type" : "type-616",
+   "self_type" : "type-615",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14520,8 +14520,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-711",
-   "self_type" : "type-710",
+   "referenced_type" : "type-626",
+   "self_type" : "type-625",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14530,8 +14530,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-718",
-   "self_type" : "type-717",
+   "referenced_type" : "type-633",
+   "self_type" : "type-632",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14540,8 +14540,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-757",
-   "self_type" : "type-756",
+   "referenced_type" : "type-672",
+   "self_type" : "type-671",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14550,8 +14550,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-765",
-   "self_type" : "type-764",
+   "referenced_type" : "type-680",
+   "self_type" : "type-679",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14560,8 +14560,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-769",
-   "self_type" : "type-768",
+   "referenced_type" : "type-684",
+   "self_type" : "type-683",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14570,8 +14570,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
    "name" : "const android::sp<aaudio::AudioStream::MyPlayerBase>",
-   "referenced_type" : "type-812",
-   "self_type" : "type-811",
+   "referenced_type" : "type-739",
+   "self_type" : "type-738",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/core/AudioStream.h"
   },
@@ -14860,8 +14860,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
    "name" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
-   "referenced_type" : "type-644",
-   "self_type" : "type-643",
+   "referenced_type" : "type-559",
+   "self_type" : "type-558",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/legacy/AudioStreamLegacy.h"
   },
@@ -14870,8 +14870,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
    "name" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
-   "referenced_type" : "type-706",
-   "self_type" : "type-705",
+   "referenced_type" : "type-621",
+   "self_type" : "type-620",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/legacy/AudioStreamLegacy.h"
   },
@@ -14880,8 +14880,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
    "name" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
-   "referenced_type" : "type-715",
-   "self_type" : "type-714",
+   "referenced_type" : "type-630",
+   "self_type" : "type-629",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/legacy/AudioStreamLegacy.h"
   },
@@ -14890,8 +14890,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
    "name" : "const android::sp<aaudio::AudioStreamLegacy::StreamDeviceCallback>",
-   "referenced_type" : "type-723",
-   "self_type" : "type-722",
+   "referenced_type" : "type-638",
+   "self_type" : "type-637",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/legacy/AudioStreamLegacy.h"
   },
@@ -15046,30 +15046,30 @@
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
   {
+   "is_const" : true,
+   "linker_set_key" : "const android::sp<android::IAAudioClient>",
+   "name" : "const android::sp<android::IAAudioClient>",
+   "referenced_type" : "type-583",
+   "self_type" : "type-582",
+   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
+  },
+  {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "const android::sp<android::IAAudioClient>",
    "name" : "const android::sp<android::IAAudioClient>",
-   "referenced_type" : "type-545",
-   "self_type" : "type-544",
+   "referenced_type" : "type-715",
+   "self_type" : "type-714",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
   {
-   "is_const" : true,
-   "linker_set_key" : "const android::sp<android::IAAudioClient>",
-   "name" : "const android::sp<android::IAAudioClient>",
-   "referenced_type" : "type-668",
-   "self_type" : "type-667",
-   "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
-  },
-  {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "const android::sp<android::IAAudioClient>",
    "name" : "const android::sp<android::IAAudioClient>",
-   "referenced_type" : "type-800",
-   "self_type" : "type-799",
+   "referenced_type" : "type-761",
+   "self_type" : "type-760",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -15126,8 +15126,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<android::IAAudioService>",
    "name" : "const android::sp<android::IAAudioService>",
-   "referenced_type" : "type-798",
-   "self_type" : "type-797",
+   "referenced_type" : "type-713",
+   "self_type" : "type-712",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
@@ -15196,8 +15196,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<android::IBinder>",
    "name" : "const android::sp<android::IBinder>",
-   "referenced_type" : "type-527",
-   "self_type" : "type-526",
+   "referenced_type" : "type-743",
+   "self_type" : "type-742",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -15206,8 +15206,8 @@
    "is_const" : true,
    "linker_set_key" : "const android::sp<android::IBinder>",
    "name" : "const android::sp<android::IBinder>",
-   "referenced_type" : "type-556",
-   "self_type" : "type-555",
+   "referenced_type" : "type-772",
+   "self_type" : "type-771",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },
@@ -15311,24 +15311,24 @@
    "is_const" : true,
    "linker_set_key" : "const android::wp<android::IBinder>",
    "name" : "const android::wp<android::IBinder>",
-   "referenced_type" : "type-551",
-   "self_type" : "type-550",
+   "referenced_type" : "type-592",
+   "self_type" : "type-591",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const android::wp<android::IBinder>",
    "name" : "const android::wp<android::IBinder>",
-   "referenced_type" : "type-677",
-   "self_type" : "type-676",
+   "referenced_type" : "type-723",
+   "self_type" : "type-722",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const android::wp<android::IBinder>",
    "name" : "const android::wp<android::IBinder>",
-   "referenced_type" : "type-808",
-   "self_type" : "type-807",
+   "referenced_type" : "type-767",
+   "self_type" : "type-766",
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/AAudioBinderClient.h"
   },
   {
@@ -15444,8 +15444,8 @@
    "is_const" : true,
    "linker_set_key" : "const std::unique_ptr<android::IAAudioClient, std::default_delete<android::IAAudioClient> >",
    "name" : "const std::unique_ptr<android::IAAudioClient, std::default_delete<android::IAAudioClient> >",
-   "referenced_type" : "type-535",
-   "self_type" : "type-534",
+   "referenced_type" : "type-751",
+   "self_type" : "type-750",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioClient.h"
   },
@@ -15484,8 +15484,8 @@
    "is_const" : true,
    "linker_set_key" : "const std::unique_ptr<android::IAAudioService, std::default_delete<android::IAAudioService> >",
    "name" : "const std::unique_ptr<android::IAAudioService, std::default_delete<android::IAAudioService> >",
-   "referenced_type" : "type-564",
-   "self_type" : "type-563",
+   "referenced_type" : "type-780",
+   "self_type" : "type-779",
    "size" : 4,
    "source_file" : "/frameworks/av/media/libaaudio/src/binding/IAAudioService.h"
   },

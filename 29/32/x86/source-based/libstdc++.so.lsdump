@@ -2405,7 +2405,7 @@
    "referenced_type" : "type-1",
    "self_type" : "type-1",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/__stddef_max_align_t.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/__stddef_max_align_t.h",
    "unique_id" : "_ZTS11max_align_t"
   },
   {

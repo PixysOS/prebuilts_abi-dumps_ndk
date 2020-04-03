@@ -2776,8 +2776,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf32_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:49:3) at out/soong/ndk/sysroot/usr/include/elf.h:49:3",
-   "name" : "Elf32_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:49:3) at out/soong/ndk/sysroot/usr/include/elf.h:49:3",
+   "linker_set_key" : "Elf32_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:49:3) at /out/soong/ndk/sysroot/usr/include/elf.h:49:3",
+   "name" : "Elf32_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:49:3) at /out/soong/ndk/sysroot/usr/include/elf.h:49:3",
    "record_kind" : "union",
    "referenced_type" : "type-163",
    "self_type" : "type-163",
@@ -2853,8 +2853,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf64_Dyn::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
-   "name" : "Elf64_Dyn::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
+   "linker_set_key" : "Elf64_Dyn::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
+   "name" : "Elf64_Dyn::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:126:3",
    "record_kind" : "union",
    "referenced_type" : "type-147",
    "self_type" : "type-147",
@@ -3133,8 +3133,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "Elf64_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:56:3) at out/soong/ndk/sysroot/usr/include/elf.h:56:3",
-   "name" : "Elf64_auxv_t::(anonymous union at out/soong/ndk/sysroot/usr/include/elf.h:56:3) at out/soong/ndk/sysroot/usr/include/elf.h:56:3",
+   "linker_set_key" : "Elf64_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:56:3) at /out/soong/ndk/sysroot/usr/include/elf.h:56:3",
+   "name" : "Elf64_auxv_t::(anonymous union at /out/soong/ndk/sysroot/usr/include/elf.h:56:3) at /out/soong/ndk/sysroot/usr/include/elf.h:56:3",
    "record_kind" : "union",
    "referenced_type" : "type-166",
    "self_type" : "type-166",
@@ -3650,8 +3650,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__kernel_sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
-   "name" : "__kernel_sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
+   "linker_set_key" : "__kernel_sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
+   "name" : "__kernel_sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3) at /out/soong/ndk/sysroot/usr/include/arm-linux-androideabi/asm/signal.h:77:3",
    "record_kind" : "union",
    "referenced_type" : "type-227",
    "self_type" : "type-227",
@@ -3819,8 +3819,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:38:3",
    "referenced_type" : "type-237",
    "self_type" : "type-237",
    "size" : 8,
@@ -3852,8 +3852,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:42:3",
    "referenced_type" : "type-238",
    "self_type" : "type-238",
    "size" : 16,
@@ -3880,8 +3880,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:48:3",
    "referenced_type" : "type-240",
    "self_type" : "type-240",
    "size" : 12,
@@ -3918,8 +3918,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:53:3",
    "referenced_type" : "type-241",
    "self_type" : "type-241",
    "size" : 20,
@@ -3940,8 +3940,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3",
    "referenced_type" : "type-242",
    "self_type" : "type-242",
    "size" : 16,
@@ -3966,8 +3966,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5",
    "record_kind" : "union",
    "referenced_type" : "type-243",
    "self_type" : "type-243",
@@ -3995,8 +3995,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:73:7",
    "referenced_type" : "type-245",
    "self_type" : "type-245",
    "size" : 12,
@@ -4018,8 +4018,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:60:3)::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:71:5)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:78:7",
    "referenced_type" : "type-247",
    "self_type" : "type-247",
    "size" : 8,
@@ -4041,8 +4041,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:84:3",
    "referenced_type" : "type-248",
    "self_type" : "type-248",
    "size" : 8,
@@ -4069,8 +4069,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
-   "name" : "__sifields::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
+   "linker_set_key" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
+   "name" : "__sifields::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:88:3",
    "referenced_type" : "type-249",
    "self_type" : "type-249",
    "size" : 12,
@@ -4749,8 +4749,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "dynamic::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
-   "name" : "dynamic::(anonymous union at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
+   "linker_set_key" : "dynamic::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
+   "name" : "dynamic::(anonymous union at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3) at /out/soong/ndk/sysroot/usr/include/linux/elf.h:119:3",
    "record_kind" : "union",
    "referenced_type" : "type-145",
    "self_type" : "type-145",
@@ -7942,7 +7942,7 @@
    "referenced_type" : "type-46",
    "self_type" : "type-46",
    "size" : 16,
-   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.1/include/__stddef_max_align_t.h",
+   "source_file" : "/prebuilts/clang-tools/linux-x86/lib64/clang/9.0.2/include/__stddef_max_align_t.h",
    "unique_id" : "_ZTS11max_align_t"
   },
   {
@@ -8602,8 +8602,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "sigaction64::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
-   "name" : "sigaction64::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
+   "linker_set_key" : "sigaction64::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
+   "name" : "sigaction64::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:116:3",
    "record_kind" : "union",
    "referenced_type" : "type-280",
    "self_type" : "type-280",
@@ -8625,8 +8625,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
-   "name" : "sigaction::(anonymous union at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
+   "linker_set_key" : "sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
+   "name" : "sigaction::(anonymous union at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3) at /out/soong/ndk/sysroot/usr/include/bits/signal_types.h:105:3",
    "record_kind" : "union",
    "referenced_type" : "type-278",
    "self_type" : "type-278",
@@ -8828,8 +8828,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
-   "name" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
+   "linker_set_key" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
+   "name" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3",
    "record_kind" : "union",
    "referenced_type" : "type-260",
    "self_type" : "type-260",
@@ -8852,8 +8852,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
-   "name" : "sigevent::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
+   "linker_set_key" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
+   "name" : "sigevent::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:226:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:229:5",
    "referenced_type" : "type-262",
    "self_type" : "type-262",
    "size" : 8,
@@ -8889,8 +8889,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
-   "name" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
+   "linker_set_key" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
+   "name" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3",
    "record_kind" : "union",
    "referenced_type" : "type-234",
    "self_type" : "type-234",
@@ -8923,8 +8923,8 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
-   "name" : "siginfo::(anonymous union at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
+   "linker_set_key" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
+   "name" : "siginfo::(anonymous union at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:102:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5) at /out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:103:5 <Spelling=/out/soong/ndk/sysroot/usr/include/asm-generic/siginfo.h:95:19>",
    "referenced_type" : "type-235",
    "self_type" : "type-235",
    "size" : 32,
@@ -9275,14 +9275,14 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
-   "name" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
+   "linker_set_key" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
+   "name" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3",
    "record_kind" : "union",
    "referenced_type" : "type-295",
    "self_type" : "type-295",
    "size" : 8,
    "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
-   "unique_id" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)"
+   "unique_id" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)"
   },
   {
    "alignment" : 4,
@@ -9299,13 +9299,13 @@
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
-   "name" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
+   "linker_set_key" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
+   "name" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5) at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5",
    "referenced_type" : "type-296",
    "self_type" : "type-296",
    "size" : 8,
    "source_file" : "/out/soong/ndk/sysroot/usr/include/sys/ucontext.h",
-   "unique_id" : "ucontext::(anonymous union at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5)"
+   "unique_id" : "ucontext::(anonymous union at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:90:3)::(anonymous struct at /out/soong/ndk/sysroot/usr/include/sys/ucontext.h:91:5)"
   },
   {
    "alignment" : 4,
